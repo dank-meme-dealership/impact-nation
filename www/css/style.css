@@ -1,1 +1,10 @@
-/* Empty. Add your own CSS if you like */
+.bar-stable.bar-relias-green {
+  background-color: #5fab44;
+}
+.bar-stable.bar-relias-light-green {
+  background-color: #86b774;
+}
+.bar-stable.bar-relias-green .title,
+.bar-stable.bar-relias-light-green .title {
+  color: #eee;
+}
