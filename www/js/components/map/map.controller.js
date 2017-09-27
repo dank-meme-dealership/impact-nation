@@ -40,12 +40,11 @@
           map: $ctrl.map,
           title: location.name,
           optimized: false,
-          icon: pinIcon,
           zIndex: 5
         });
 
         marker.addListener('click', function() {
-          showPopup(this);
+          showInfoWindow(this);
         });
         $ctrl.markers.push(marker);
       });
@@ -53,7 +52,7 @@
       google.maps.event.addListener($ctrl.map, 'click', closeInfoWindow);
     }
 
-    function showPopup(marker) {
+    function showInfoWindow(marker) {
       closeInfoWindow();
       $ctrl.infoWindow = new google.maps.InfoWindow({
         content : marker.title

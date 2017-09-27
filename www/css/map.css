@@ -6,11 +6,7 @@
 {
   height: 100%;
 }
-#map .gm-style-iw + div {
-  display: none;
-}
 #map .gm-style-iw {
-  text-align: center;
   /*Love me some Comic Sans*/
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
