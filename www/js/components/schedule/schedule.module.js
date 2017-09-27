@@ -1,4 +1,6 @@
 (function () {
   angular
-    .module('impactNation.schedule', []);
+    .module('impactNation.schedule', [
+      'impactNation.schedule.session'
+    ]);
 })();

@@ -5,6 +5,7 @@
 
       'impactNation.menu',
       'impactNation.home',
+      'impactNation.activityFeed',
       'impactNation.map',
       'impactNation.schedule',
       'impactNation.speakers',
