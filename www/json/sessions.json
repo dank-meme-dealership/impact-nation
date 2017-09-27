@@ -9,7 +9,14 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 2,
+        "speakerFirstName": "Mike",
+        "speakerLastName": "Mukta",
+        "speakerSuffix": "",
+        "speakerTitle": "Chief Strategy and Corporate Development Officer, Relias",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -22,7 +29,14 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 3,
+        "speakerFirstName": "Carol",
+        "speakerLastName": "Clayton",
+        "speakerSuffix": "",
+        "speakerTitle": "Translational Neuroscience Strategist, Relias",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -35,7 +49,14 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 4,
+        "speakerFirstName": "Barbara",
+        "speakerLastName": "Hallisey",
+        "speakerSuffix": "",
+        "speakerTitle": "",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -48,7 +69,14 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 1,
+        "speakerFirstName": "",
+        "speakerLastName": "Speaker Coming Soon!",
+        "speakerSuffix": "",
+        "speakerTitle": "",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -61,7 +89,14 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 5,
+        "speakerFirstName": "Laurent S.",
+        "speakerLastName": "Lamothe",
+        "speakerSuffix": "",
+        "speakerTitle": "Former Prime Minister, Republic of Haiti",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -74,7 +109,14 @@
     "CE": true,
     "speakers":
     [
-
+      {
+        "speakerID": 6,
+        "speakerFirstName": "Greg",
+        "speakerLastName": "Streuly",
+        "speakerSuffix": "",
+        "speakerTitle": "Training and Development Specialist, Bethesda Lutheran Communities",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -87,7 +129,22 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 7,
+        "speakerFirstName": "Candace",
+        "speakerLastName": "Wallace",
+        "speakerSuffix": "",
+        "speakerTitle": "Director of Professional Services, Relias",
+        "speakerDescription": ""
+      },
+      {
+        "speakerID": 8,
+        "speakerFirstName": "Bryon",
+        "speakerLastName": "Coro",
+        "speakerSuffix": "",
+        "speakerTitle": "Director of Accounts Management, Relias Learning",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -100,7 +157,22 @@
     "CE": true,
     "speakers":
     [
-
+      {
+        "speakerID": 9,
+        "speakerFirstName": "Laura S.",
+        "speakerLastName": "Minor",
+        "speakerSuffix": ", MS, PA",
+        "speakerTitle": "",
+        "speakerDescription": "Ms. Minor has been working for 25 years at Wheeler Clinic in many roles including leading community-based prevention programs, training in diverse adult and youth settings and most recently as Staff Development Manager. Ms. Minor also is an adjunct faculty member at the University of Connecticut Master’s in Public Health program. Prior experience includes directing a large citywide HIV/AIDS program, overseeing all aspects of a women’s clinic and providing direct client care in both an inner city clinic and a hospital. Ms. Minor earned her Bachelor’s degree in Biology at the University of Connecticut, her Physician Assistant professional certificate from the United States Public Health Services Hospital in Staten Island, NY and her Master’s in Health Services from California College for Health Sciences."
+      },
+      {
+        "speakerID": 10,
+        "speakerFirstName": "Heidi A.",
+        "speakerLastName": "Joseph",
+        "speakerSuffix": ", MSN",
+        "speakerTitle": "",
+        "speakerDescription": "Ms. Joseph has worked in healthcare settings for 20 years, including hospital based acute care and community health centers in the role of staff nurse, infection prevention and control, staff development and training, as well as executive leadership.  Heidi is a Connecticut native and earned her Bachelors of Nursing from University of Saint Joseph, Masters in Nurse from University of Hartford and is currently pursuing a Doctorate of Nursing Practice in Leadership at Quinnipiac University.  She currently oversees daily operations of the integrated Health and Wellness Centers at Wheeler Clinic."
+      }
     ]
   },
   {
@@ -113,7 +185,14 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 11,
+        "speakerFirstName": "Josh",
+        "speakerLastName": "Sundquist",
+        "speakerSuffix": "",
+        "speakerTitle": "Author and Paralympian",
+        "speakerDescription": ""
+      }
     ]
   },
   {
@@ -126,7 +205,22 @@
     "CE": false,
     "speakers":
     [
-
+      {
+        "speakerID": 12,
+        "speakerFirstName": "Bob",
+        "speakerLastName": "Lokken",
+        "speakerSuffix": "",
+        "speakerTitle": "CEO, WhiteCloud Analytics",
+        "speakerDescription": ""
+      },
+      {
+        "speakerID": 13,
+        "speakerFirstName": "Mark",
+        "speakerLastName": "Chasin",
+        "speakerSuffix": "",
+        "speakerTitle": "CIO, St. Luke's Health System",
+        "speakerDescription": ""
+      }
     ]
   }
 ]
