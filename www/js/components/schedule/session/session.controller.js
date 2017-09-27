@@ -11,7 +11,6 @@
     function init() {
       sessionsService.getSession($state.params.sessionID).then(function (session) {
         $ctrl.session = session;
-        console.log($ctrl.session);
       });
     }
   }
