@@ -22,10 +22,23 @@
      */
     function getSpeaker(speakerID) {
       return new Promise(function (resolve) {
-        getSpeakers().then(function () {
-          resolve(_.find(service.speakers, { id: parseInt(speakerID) }));
-        });
+        if (service.speakers.length) {
+          resolve(getSpeakerFromService(speakerID))
+        } else {
+          getSpeakers().then(function () {
+            resolve(getSpeakerFromService(speakerID));
+          });
+        }
       });
+    }
+
+    /**
+     * Pull the speaker from the saved speakers in the service
+     * @param speakerID
+     * @returns {*}
+     */
+    function getSpeakerFromService(speakerID) {
+      return _.find(service.speakers, {id: parseInt(speakerID)});
     }
 
     /**
@@ -34,9 +47,18 @@
      */
     function getSpeakers() {
       return api.get('speakers').then(function (response) {
-        service.speakers = response.data;
+        service.speakers = _.map(response.data, mapSpeaker);
         return response;
       });
+    }
+
+    /**
+     * Map additional fields to speaker
+     * @param speaker
+     */
+    function mapSpeaker(speaker) {
+      speaker.name = [speaker.firstName, speaker.lastName].join(' ');
+      return speaker;
     }
   }
 })();
