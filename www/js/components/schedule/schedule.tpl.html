@@ -5,6 +5,10 @@
       <ion-item href="#/app/schedule/matt">Matt</ion-item>
       <ion-item href="#/app/schedule/peter">Peter</ion-item>
       <ion-item href="#/app/schedule/conner">Conner</ion-item>
+      <ion-item ng-repeat="session in $ctrl.sessions">
+        <div ng-bind="session.title"></div>
+        <div ng-bind="session.subtitle"></div>
+      </ion-item>
     </ion-list>
   </ion-content>
 </ion-view>
