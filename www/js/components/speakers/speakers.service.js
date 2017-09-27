@@ -5,7 +5,7 @@
 
   function speakersService(api) {
     var service = {
-      speakers: [],
+      speakers: undefined,
 
       getSpeaker: getSpeaker,
       getSpeakers: getSpeakers
@@ -22,7 +22,7 @@
      */
     function getSpeaker(speakerID) {
       return new Promise(function (resolve) {
-        if (service.speakers.length) {
+        if (service.speakers && service.speakers.length) {
           resolve(getSpeakerFromService(speakerID))
         } else {
           getSpeakers().then(function () {

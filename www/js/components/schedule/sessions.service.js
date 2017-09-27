@@ -5,7 +5,7 @@
 
   function sessionsService(api) {
     var service = {
-      sessions: [],
+      sessions: undefined,
 
       getSession: getSession,
       getSessions: getSessions
@@ -22,7 +22,7 @@
      */
     function getSession(sessionID) {
       return new Promise(function (resolve) {
-        if (service.sessions.length) {
+        if (service.sessions && service.sessions.length) {
           resolve(getSessionFromService(sessionID))
         } else {
           getSessions().then(function () {
