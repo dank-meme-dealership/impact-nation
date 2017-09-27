@@ -8,3 +8,7 @@
 .bar-stable.bar-relias-light-green .title {
   color: #eee;
 }
+
+.card .item:last-child .item-content {
+  border-top: 1px solid #ddd;
+}

@@ -8,6 +8,7 @@
       sessions: undefined,
 
       getSession: getSession,
+      getSessionFromService: getSessionFromService,
       getSessions: getSessions
     };
 
