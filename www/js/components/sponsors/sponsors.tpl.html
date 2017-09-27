@@ -1,5 +1,14 @@
 <ion-view view-title="Sponsors">
-  <ion-content>
-    <h1>Sponsors</h1>
+  <ion-content id="sponsor-page">
+    <div ng-repeat="sponsor in $ctrl.sponsors" >
+      <div class="card">
+        <div class="item item-text-wrap">
+          <img src="{{sponsor.logoUrl}}">
+        </div>
+        <div class="item-body" ng-click="$ctrl.goToLink(sponsor.url)">
+          {{sponsor.name}}
+        </div>
+      </div>
+    </div>
   </ion-content>
 </ion-view>
