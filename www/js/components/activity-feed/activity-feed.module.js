@@ -1,4 +1,6 @@
 (function () {
   angular
-    .module('impactNation.activityFeed', []);
+    .module('impactNation.activityFeed', [
+      'impactNation.activityFeed.twitter'
+    ]);
 })();

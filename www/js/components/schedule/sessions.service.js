@@ -5,7 +5,7 @@
 
   function sessionsService(api) {
     var service = {
-      sessions: [],
+      sessions: undefined,
 
       getSession: getSession,
       getSessions: getSessions
@@ -22,12 +22,29 @@
      */
     function getSession(sessionID) {
       return new Promise(function (resolve) {
-        getSessions().then(function () {
-          resolve(_.find(service.sessions, { id: parseInt(sessionID) }));
-        });
+        if (service.sessions && service.sessions.length) {
+          resolve(getSessionFromService(sessionID))
+        } else {
+          getSessions().then(function () {
+            resolve(getSessionFromService(sessionID));
+          });
+        }
       });
     }
 
+    /**
+     * Pull the session from the saved sessions in the service
+     * @param sessionID
+     * @returns {*}
+     */
+    function getSessionFromService(sessionID) {
+      return _.find(service.sessions, {id: parseInt(sessionID)});
+    }
+
+    /**
+     * Get all sessions
+     * @returns {*}
+     */
     function getSessions() {
       return api.get('sessions').then(function (response) {
         service.sessions = response.data;
