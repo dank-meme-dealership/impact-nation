@@ -3,7 +3,7 @@
     .module('impactNation.schedule')
     .service('sessionsService', sessionsService);
 
-  function sessionsService(api) {
+  function sessionsService(api, speakersService) {
     var service = {
       sessions: undefined,
 
@@ -48,7 +48,7 @@
     function getSessions() {
       return api.get('sessions').then(function (response) {
         service.sessions = _.map(response.data, mapSession);
-        return response.data;
+        return service.sessions;
       });
     }
 
@@ -89,6 +89,9 @@
 
       // the displayed group is a concat of display date and suffix
       session.displayGroup = session.displayDate + ' ' + timeOfDay;
+
+      // we need to map these speakers too
+      session.speakers = _.map(session.speakers, speakersService.mapSpeaker);
 
       return session;
     }

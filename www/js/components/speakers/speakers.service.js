@@ -8,7 +8,8 @@
       speakers: undefined,
 
       getSpeaker: getSpeaker,
-      getSpeakers: getSpeakers
+      getSpeakers: getSpeakers,
+      mapSpeaker: mapSpeaker
     };
 
     getSpeakers();
@@ -48,7 +49,7 @@
     function getSpeakers() {
       return api.get('speakers').then(function (response) {
         service.speakers = _.map(response.data, mapSpeaker);
-        return response;
+        return service.speakers;
       });
     }
 
