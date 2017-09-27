@@ -12,10 +12,11 @@
       {
         "id": 2,
         "firstName": "Mike",
-        "lastName": "Mukta",
+        "lastName": "Mutka",
         "suffix": "",
         "title": "Chief Strategy and Corporate Development Officer, Relias",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/reliaslearning-April2016/Images/mike-mutka-2.jpg",
+        "description": "Mike Mutka is the Chief Strategy and Corporate Development Officer at Relias Learning. Previously he was the Executive Vice President of Sales and Marketing. Prior to this position, he was President of Silverchair Learning Systems, LLC, which is now part of Relias Learning. Mike also served as the company’s Executive Vice President of Sales and Marketing from 2005-2009. During that time, he built the sales and marketing organization from just two people to a team of 20+ professionals with an impressive track record of growth. Prior to Silverchair Learning, Mike worked for the Hill-Rom Company, Berchtold Corporation, and Briggs Healthcare, all leaders in their markets, and gained extensive experience in new product development, sales and marketing management, strategic planning, and Kaizen continuous improvement methodology. He earned a Bachelor’s degree in Business and an MBA in Marketing from Indiana University‘s Kelley School of Business."
       }
     ]
   },
@@ -35,7 +36,8 @@
         "lastName": "Clayton",
         "suffix": "",
         "title": "Translational Neuroscience Strategist, Relias",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Resource_Images/Webinars/Presenters/carol-clayton.jpg",
+        "description": "Dr. Clayton is a licensed, practicing psychologist with 30 years of healthcare experience in the public and private sector, including non-profit and private practice work. She currently works as the Translational Neuroscientist for Relias, a NC Based Company specializing in online workforce development and training. Before joining Relias, Dr. Clayton served as the CEO of Care Management Technologies, a health IT data analytics company recently acquired by Relias. Prior to her tenure as CEO of CMT, Dr. Clayton served as the Executive Director for the North Carolina Council of Community MH/DD/SA Programs, a nonprofit corporation representing public MH/DD/SA service organizations. She began her career as a psychologist at a local NC state psychiatric facility followed by leading regional public community health child and family services under a capitated Medicaid waiver in NC. Dr. Clayton also served as the Executive Director for Magellan Health Services for the South Atlantic states of North Carolina, South Carolina, Tennessee and Georgia. She has broad public and private sector management and leadership experience."
       }
     ]
   },
@@ -55,6 +57,7 @@
         "lastName": "Hallisey",
         "suffix": "",
         "title": "",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Barbara-Hallisey.jpg",
         "description": ""
       }
     ]
@@ -75,6 +78,7 @@
         "lastName": "Speaker Coming Soon!",
         "suffix": "",
         "title": "",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Impact-Square.jpg",
         "description": ""
       }
     ]
@@ -95,7 +99,8 @@
         "lastName": "Lamothe",
         "suffix": "",
         "title": "Former Prime Minister, Republic of Haiti",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Laurent-Lamothe.jpg",
+        "description": "Laurent S. Lamothe successfully served as Prime Minister of Haiti from May 2012 to December 2014, the longest tenure of any Prime Minister in the last three decades. During his time in office, Lamothe presided over the design and implementation of an important social policy agenda targeting the poorest sectors of the Haitian population. He also presided over the largest infrastructure development in recent memory."
       }
     ]
   },
@@ -115,7 +120,8 @@
         "lastName": "Streuly",
         "suffix": "",
         "title": "Training and Development Specialist, Bethesda Lutheran Communities",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Greg-Struely.jpg",
+        "description": "Greg He holds a Masters degree in Education from the University of Wisconsin - La Crosse as well as a Bachelors degree in Special Education from University of Wisconsin - Whitewater. He is a member of the American Association of Educators and the Wisconsin State Reading Association."
       }
     ]
   },
@@ -135,7 +141,8 @@
         "lastName": "Wallace",
         "suffix": "",
         "title": "Director of Professional Services, Relias",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Resource_Images/Webinars/Presenters/Candace-Wallace.jpg",
+        "description": "Candace joined Relias Learning in 2013. While at Relias, Candace has held the positions of Support Consultant, Client Success Manager, Support Manager, and now Director of Support. Candace is responsible for all areas of client support at Relias Learning and is supported by an amazing team of Support Consultants, Client Success Managers, Solutions Consultants, and Managers. Previously, Candace worked as Laboratory Director for Archaeological Research at Atkins. Candace holds Bachelor’s degrees in both Archaeology and Religion from Baylor University."
       },
       {
         "id": 8,
@@ -143,6 +150,7 @@
         "lastName": "Coro",
         "suffix": "",
         "title": "Director of Accounts Management, Relias Learning",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Bryon-Coro.jpg",
         "description": ""
       }
     ]
@@ -163,6 +171,7 @@
         "lastName": "Minor",
         "suffix": ", MS, PA",
         "title": "",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Laura-Minor.jpg",
         "description": "Ms. Minor has been working for 25 years at Wheeler Clinic in many roles including leading community-based prevention programs, training in diverse adult and youth settings and most recently as Staff Development Manager. Ms. Minor also is an adjunct faculty member at the University of Connecticut Master’s in Public Health program. Prior experience includes directing a large citywide HIV/AIDS program, overseeing all aspects of a women’s clinic and providing direct client care in both an inner city clinic and a hospital. Ms. Minor earned her Bachelor’s degree in Biology at the University of Connecticut, her Physician Assistant professional certificate from the United States Public Health Services Hospital in Staten Island, NY and her Master’s in Health Services from California College for Health Sciences."
       },
       {
@@ -171,6 +180,7 @@
         "lastName": "Joseph",
         "suffix": ", MSN",
         "title": "",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Heidi-Joseph.jpg",
         "description": "Ms. Joseph has worked in healthcare settings for 20 years, including hospital based acute care and community health centers in the role of staff nurse, infection prevention and control, staff development and training, as well as executive leadership.  Heidi is a Connecticut native and earned her Bachelors of Nursing from University of Saint Joseph, Masters in Nurse from University of Hartford and is currently pursuing a Doctorate of Nursing Practice in Leadership at Quinnipiac University.  She currently oversees daily operations of the integrated Health and Wellness Centers at Wheeler Clinic."
       }
     ]
@@ -191,7 +201,8 @@
         "lastName": "Sundquist",
         "suffix": "",
         "title": "Author and Paralympian",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/josh-sundquist-square.jpg",
+        "description": "Josh a bestselling author, motivational speaker, and Paralympic ski racer. He has spoken across the world to groups ranging from Fortune 500 companies to inner city public schools to the White House. At age nine, Josh was diagnosed with a rare form of bone cancer and given a fifty percent chance to live. He spent a year on chemotherapy treatments and his left leg was amputated. Doctors declared Josh cured of the disease at age thirteen and he took up ski racing three years later. He trained for the next six years and in 2006 he was named to the US Paralympic Ski Team for the 2006 Paralympics in Turino, Italy."
       }
     ]
   },
@@ -211,7 +222,8 @@
         "lastName": "Lokken",
         "suffix": "",
         "title": "CEO, WhiteCloud Analytics",
-        "description": ""
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Bob-Lakken.jpg",
+        "description": "Bob Lokken serves as the VP of Analytics for Relias Learning. Lokken recently joined the Relias team from WhiteCloud Analytics, where he was founder and CEO. Also, Lokken serves on the System Board of Trustees for St. Luke’s Health System, and serves as Chairman of the Board of Directors of Idaho Business for Education, a business advocacy organization of 185 CEO’s across the state."
       },
       {
         "id": 13,
@@ -219,6 +231,7 @@
         "lastName": "Chasin",
         "suffix": "",
         "title": "CIO, St. Luke's Health System",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Marc-Chasin.jpg",
         "description": ""
       }
     ]
