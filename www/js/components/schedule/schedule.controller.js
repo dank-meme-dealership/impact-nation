@@ -3,15 +3,15 @@
     .module('impactNation.schedule')
     .controller('ScheduleController', ScheduleController);
 
-  function ScheduleController(api) {
+  function ScheduleController(sessionsService) {
     var $ctrl = this;
+
+    $ctrl.sessionsService = sessionsService;
 
     init();
 
     function init() {
-      api.get('sessions').then(function (response) {
-        $ctrl.sessions = response.data;
-      })
+
     }
   }
 })();
