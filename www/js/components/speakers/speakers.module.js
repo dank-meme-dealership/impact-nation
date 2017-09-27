@@ -1,4 +1,6 @@
 (function () {
   angular
-    .module('impactNation.speakers', []);
+    .module('impactNation.speakers', [
+      'impactNation.speakers.speaker'
+    ]);
 })();
