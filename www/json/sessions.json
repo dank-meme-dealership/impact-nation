@@ -235,5 +235,158 @@
         "description": ""
       }
     ]
+  },
+  {
+    "id": 11,
+    "title": "Turnover and Retention Workshop",
+    "subtitle": "",
+    "description": "Jan Wilson, M. Ed. SPHR, SHRM-SPC, Director, Learning Design and Outcomes with Relias Learning will lead an interactive 3 hour afternoon workshop to share her in-depth knowledge on staff turnover and retention challenges and solutions. People rave about Jan's techniques for better training programs and techniques to attract, hire and retain the best staff.",
+    "startTime": 1506949200,
+    "endTime": 1506963600,
+    "CE": true,
+    "speakers":
+    [
+      {
+        "id": 52,
+        "firstName": "Jan",
+        "lastName": "Wilson",
+        "suffix": "",
+        "title": "Director of Learning Designs and Outcomes, Relias",
+        "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Jan-Wlson.jpg",
+        "description": "Jan brings over 25 years of technology, human resources and learning expertise to the Relias Learning team. Her experience in senior care spans more than a decade, including serving as a senior executive of learning strategy with one of the country's largest providers. As an organizational development consultant, she has provided strategic planning, process alignment, curriculum development and planning and learning solutions to a variety of clients in pharma, healthcare, and state governments."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Course Writing-eLearning Master Class",
+    "subtitle": "",
+    "description": "Bring your own laptop! We recommend you have Microsoft Word and Powerpoint. You’ll receive a USB drive with all the materials you need to complete a simulated project as we go through the day.",
+    "startTime": 1506949200,
+    "endTime": 1506963600,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 70,
+        "firstName": "Maria",
+        "lastName": "Samot",
+        "suffix": "",
+        "title": "Director of Curriculum Research &amp; Design, Relias",
+        "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Maria-samot.jpg",
+        "description": "As Instructional Design Manager for Relias Learning, Maria Samot enjoys leading a team of talented learning experience designers and SMEs as part of the overall Content team. Prior to joining Relias in 2013, Maria was an Associate Project Director at Georgia State University in the College of Education, where she designed and presented training and education in instructor-led, blended learning and elearning formats. She’s also been director of a statewide non-profit educational foundation, as well as an elementary school teacher at an international magnet school in Raleigh, NC. Maria holds a BA in Psychology from NC State University, and an M.Ed. in Divergent Learning from Columbia College."
+      },
+      {
+        "id": 31,
+        "firstName": "Dana",
+        "lastName": "Thomas",
+        "suffix": "",
+        "title": "VP of Content Development, Relias",
+        "imageAddress": "https://www.reliaslearning.com/hubfs/reliaslearning-April2016/Images/Dana-Thomas.jpg",
+        "description": "Dana Thomas is the VP of Content Development at Relias Learning. He leads a team of 40+ individuals working with hundreds of Subject Matter Experts to develop the Relias eLearning libraries. He joined Relias in 2009 and brought with him over a decade of instructor led and asynchronous training experience. He is passionate about efficient training and will literally talk your ear off about it, if you let him."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Level I Fundamental RLMS Training",
+    "subtitle": "",
+    "description": "Workshop for basic users who could be using the system better, beginners or admins that are new users of the RLMS. Covers: User Management, Hierarchy, Modules and Enrollment, Dashboard and Site Settings, Curricula Creation, Advanced Enrollment, and Reporting.",
+    "startTime": 1506949200,
+    "endTime": 1506963600,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 101,
+        "firstName": "Sue",
+        "lastName": "Williams",
+        "suffix": " M.Ed.",
+        "title": "Client Success Manager, Relias",
+        "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Sue-Williams.jpg",
+        "description": ""
+      },
+      {
+        "id": 108,
+        "firstName": "Katie",
+        "lastName": "Curtis",
+        "suffix": "",
+        "title": "Client Success Manager, Relias Learning",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Katie_Curtis.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Level II Advanced RLMS Training",
+    "subtitle": "",
+    "description": "Workshop for more seasoned clients who know the basics, but want to dig deeper and learn to use the more robust features. Covers: Module Assembler, Live Events, Requirements Tracker, Skills Checklist, Curricula Building and Advanced Enrollment, and Reporting.",
+    "startTime": 1506949200,
+    "endTime": 1506963600,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 94,
+        "firstName": "Sara",
+        "lastName": "DeFilipps",
+        "suffix": "",
+        "title": "Client Success Manager, Relias",
+        "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Sara_DeFilipps.jpg",
+        "description": ""
+      },
+      {
+        "id": 109,
+        "firstName": "Christine",
+        "lastName": "Connell",
+        "suffix": "",
+        "title": "Client Success Manager, Relias Learning",
+        "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Christine-Connell.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+  "id": 15,
+  "title": "Payer Provider Collaboration: The Value of Data Sharing for Whole Person Care",
+  "subtitle": "",
+  "description": "The relationship between payer and providers is shifting. Payers are establishing greater expectations of providers for integrated care, including care coordination and care management activities that have typically been the functional responsibility of the payer. Provider reimbursement is being tied to performance metrics such as overall health outcomes, functional life skills improvement and quality of care. These shift are fraught with challenges and risks. Collaboration and trust between payer and provider are key.",
+  "startTime": 1506953700,
+  "endTime": 1506957300,
+  "CE": false,
+  "speakers":
+  [
+    {
+      "id": 74,
+      "firstName": "Megan",
+      "lastName": "Johnson",
+      "suffix": "",
+      "title": "",
+      "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Megan-Johnson.jpg",
+      "description": ""
+    }
+  ]
+  },
+  {
+    "id": 16,
+    "title": "Interactive Discussion: Biggest Successes, Failures, and Learnings in 2017",
+    "subtitle": "",
+    "description": "Let’s learn from each other. Join us as we have an interactive discussion around current happenings in each of our states, sharing current projects, successes, and gaps. What tools are you using to succeed? What would you like to see in new developing technologies that address population health management and value-based care models?",
+    "startTime": 1506962700,
+    "endTime": 1506965400,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 64,
+        "firstName": "Laurie",
+        "lastName": "Nelson",
+        "suffix": "",
+        "title": "Group Product Manager for Analytics, Relias Learning",
+        "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Laurie-Nelson.jpg",
+        "description": "As the Group Product Manager for Analytics, Laurie Nelson is charged with leading the effort to add Healthcare Analytics into Relias Learning’s suite of products, which also includes learning and assessments. She joined Relias in September 2016 and is excited to be working with an incredible team of people to make Analytics a key component of Relias’ overall solution suite which will enable Healthcare organizations to reduce costs, improve care and identify areas for key workforce development. Laurie has 20+ years of software experience in multiple industries, but has spent the last 14 years focused on Analytics, Data Warehousing, and Reporting for both government agencies and technology companies such as Peoplefluent and Teradata. Laurie is particularly passionate about working with software development organizations to build products that give software users the right information at the right time in the right format to enable them to do their jobs with greater success."
+      }
+    ]
   }
 ]

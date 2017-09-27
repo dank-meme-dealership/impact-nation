@@ -970,5 +970,23 @@
     "title": "Enterprise Support Manager, Relias",
     "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/trudy-cruxton2.jpg",
     "description": ""
+  },
+  {
+    "id": 108,
+    "firstName": "Katie",
+    "lastName": "Curtis",
+    "suffix": "",
+    "title": "Client Success Manager, Relias Learning",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Katie_Curtis.jpg",
+    "description": ""
+  },
+  {
+    "id": 109,
+    "firstName": "Christine",
+    "lastName": "Connell",
+    "suffix": "",
+    "title": "Client Success Manager, Relias Learning",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Christine-Connell.jpg",
+    "description": ""
   }
 ]
