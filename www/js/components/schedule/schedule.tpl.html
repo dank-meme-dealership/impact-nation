@@ -2,10 +2,7 @@
   <ion-content>
     <h1>Schedule</h1>
     <ion-list>
-      <ion-item ui-sref="app.session({ sessionID: session.id })" ng-repeat="session in $ctrl.sessionsService.sessions">
-        <div ng-bind="session.title"></div>
-        <div ng-bind="session.subtitle"></div>
-      </ion-item>
+      <session-list-item session="session" ng-repeat="session in $ctrl.sessionsService.sessions"></session-list-item>
     </ion-list>
   </ion-content>
 </ion-view>
