@@ -3,7 +3,7 @@
     <div ng-repeat="sponsor in $ctrl.sponsors" >
       <div class="card">
         <div class="item item-text-wrap">
-          <img src="{{sponsor.logoUrl}}">
+          <img ng-src="{{sponsor.logoUrl}}">
         </div>
         <div class="item-body" ng-click="$ctrl.goToLink(sponsor.url)">
           {{sponsor.name}}
