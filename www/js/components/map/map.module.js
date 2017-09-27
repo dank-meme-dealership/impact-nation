@@ -1,4 +1,6 @@
 (function () {
   angular
-    .module('impactNation.map', []);
+    .module('impactNation.map', [
+      'impactNation.map.locations'
+    ]);
 })();

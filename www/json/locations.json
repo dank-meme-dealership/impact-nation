@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "Universal Studios Florida",
+    "lat" : 28.474321,
+    "long" : -81.467819
+  },
+  {
+    "name" : "Lafayette's Orlando",
+    "lat" : 28.432057,
+    "long" : -81.470124
+  },
+  {
+    "name" : "Crossroads of Lake Buena Vista",
+    "lat" : 28.381950,
+    "long" : -81.504066
+  },
+  {
+    "name" : "Hyatt Grand Cypress Resort",
+    "lat" : 28.382183,
+    "long" : -81.509909
+  },
+  {
+    "name" : "Disney Springs",
+    "lat" : 28.370256,
+    "long" : -81.520992
+  },
+  {
+    "name" : "Disney World - Magic Kingdom",
+    "lat" : 28.417663,
+    "long" : -81.581212
+  },
+  {
+    "name" : "Player 1 Video Game Bar",
+    "lat" : 28.384111,
+    "long" : -81.501738
+  }
+]
