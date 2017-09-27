@@ -3,22 +3,15 @@
     .module('impactNation.speakers')
     .controller('SpeakersController', SpeakersController);
 
-  function SpeakersController() {
+  function SpeakersController(speakersService) {
     var $ctrl = this;
 
-    $ctrl.speakers = [
-      {
-        id: 10,
-        name: "Brik Royster",
-        title: "Software Enginner",
-        company: "Relias Learning"
-      },
-      {
-        id: 11,
-        name: "Daniel Ryan",
-        title: "Android Developer",
-        company: "TSheets"
-      }
-    ];
+    $ctrl.speakersService = speakersService;
+
+    init();
+
+    function init() {
+
+    }
   }
 })();

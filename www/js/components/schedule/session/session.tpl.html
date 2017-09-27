@@ -1,6 +1,14 @@
-<ion-view view-title="{{ $ctrl.details.title }}">
+<ion-view>
+  <ion-nav-title ng-bind="$ctrl.session.title"></ion-nav-title>
   <ion-content>
     <h1>Session</h1>
-    <p ng-bind="$ctrl.details.description"></p>
+    <p ng-bind="$ctrl.session.description"></p>
+    <h3>Speakers</h3>
+    <ion-list>
+      <ion-item href="#/app/speakers/{{ speaker.id }}" ng-repeat="speaker in $ctrl.session.speakers">
+        <div>{{ speaker.firstName }} {{ speaker.lastName }}</div>
+        <div>{{ speaker.title }}, {{ speaker.company }}</div>
+      </ion-item>
+    </ion-list>
   </ion-content>
 </ion-view>

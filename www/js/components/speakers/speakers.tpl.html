@@ -2,8 +2,8 @@
   <ion-content>
     <h1>Speakers</h1>
     <ion-list>
-      <ion-item href="#/app/speakers/{{ speaker.id }}" ng-repeat="speaker in $ctrl.speakers">
-        <div ng-bind="speaker.name"></div>
+      <ion-item href="#/app/speakers/{{ speaker.id }}" ng-repeat="speaker in $ctrl.speakersService.speakers">
+        <div>{{ speaker.firstName }} {{ speaker.lastName }}</div>
         <div>{{ speaker.title }}, {{ speaker.company }}</div>
       </ion-item>
     </ion-list>
