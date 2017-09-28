@@ -1,5 +1,10 @@
 <ion-view>
   <ion-nav-title>Session</ion-nav-title>
+  <ion-nav-buttons side="right">
+    <button class="button button-clear" ng-click="$ctrl.toggleScheduled()">
+      <strong>{{ $ctrl.isScheduled ? 'Added' : 'Add' }}</strong> <schedule-button session=$ctrl.session></schedule-button>
+    </button>
+  </ion-nav-buttons>
   <ion-content>
     <div class="item centered-wrapped-item" ng-bind="$ctrl.session.title"></div>
     <div class="item-body padding" ng-bind="$ctrl.session.description"></div>
@@ -10,3 +15,4 @@
     </ion-list>
   </ion-content>
 </ion-view>
+`

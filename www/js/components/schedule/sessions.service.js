@@ -48,7 +48,7 @@
      */
     function getSessions() {
       return api.get('sessions').then(function (response) {
-        service.sessions = _.map(response.data, mapSession);
+        service.sessions = _.map(_.sortBy(response.data, ['startTime']), mapSession);
         return service.sessions;
       });
     }
