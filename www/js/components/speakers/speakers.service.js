@@ -48,7 +48,7 @@
      */
     function getSpeakers() {
       return api.get('speakers').then(function (response) {
-        service.speakers = _.map(response.data, mapSpeaker);
+        service.speakers = _.sortBy(_.map(response.data, mapSpeaker), ['name']);
         return service.speakers;
       });
     }
