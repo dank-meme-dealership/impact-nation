@@ -60,9 +60,9 @@
      */
     function mapSession(session) {
       // values the schedule needs
-      session.startTime = moment(session.startTime);
+      session.startTime = moment.unix(session.startTime);
       session.startTimeFormatted = session.startTime.format('h:mm a');
-      session.endTime = moment(session.endTime);
+      session.endTime = moment.unix(session.endTime);
       session.endTimeFormatted = session.endTime.format('h:mm a');
 
       // I created these ranges based on what The Google told me
