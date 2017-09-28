@@ -6,6 +6,7 @@
 .speaker-image {
   height: 150px;
   margin: 10px;
+  border-radius: 10px;
 }
 
 .speaker-title {
