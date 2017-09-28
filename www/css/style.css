@@ -25,3 +25,14 @@
   white-space: normal;
   text-align: center;
 }
+
+.speaker-name {
+  font-weight: bold;
+}
+
+.speaker-title-item {
+  overflow: auto;
+  text-overflow: inherit;
+  white-space: normal;
+  font-size: 14px;
+}
