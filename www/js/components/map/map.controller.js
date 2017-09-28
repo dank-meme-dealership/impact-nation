@@ -30,7 +30,7 @@
 
     function setLocations(locations)
     {
-      var pinIcon, marker;
+      var marker;
       $ctrl.markers = [];
       _.each(locations, function(location)
       {

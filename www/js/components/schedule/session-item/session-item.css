@@ -22,4 +22,7 @@
   border-radius: 2px;
 }
 
-
+.session-title {
+  text-wrap: normal;
+  white-space: normal;
+}
