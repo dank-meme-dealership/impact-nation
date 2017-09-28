@@ -1,14 +1,14 @@
-.bar-stable.bar-relias-green {
-  background-color: #5fab44;
-}
-.bar-stable.bar-relias-light-green {
-  background-color: #86b774;
-}
-.bar-stable.bar-relias-green .title,
-.bar-stable.bar-relias-light-green .title,
-.bar-stable.bar-relias-green .button {
-  color: #eee;
-}
+/*.bar-stable.bar-relias-green {*/
+  /*background-color: #5fab44;*/
+/*}*/
+/*.bar-stable.bar-relias-light-green {*/
+  /*background-color: #86b774;*/
+/*}*/
+/*.bar-stable.bar-relias-green .title,*/
+/*.bar-stable.bar-relias-light-green .title,*/
+/*.bar-stable.bar-relias-green .button {*/
+  /*color: #eee;*/
+/*}*/
 
 .card .item:last-child .item-content {
   border-top: 1px solid #ddd;
@@ -23,4 +23,34 @@
   text-overflow: inherit;
   white-space: normal;
   text-align: center;
+}
+
+.list {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card .list {
+  padding: inherit;
+}
+
+ion-content {
+  background-color: #5fab44;
+  padding: 10px;
+}
+
+.card {
+  margin: 20px 0px;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.font400 {
+  font-weight: 400;
+}
+
+a {
+  color: inherit;
 }
