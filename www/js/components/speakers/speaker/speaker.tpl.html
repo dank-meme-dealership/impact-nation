@@ -1,9 +1,12 @@
 <ion-view>
   <ion-nav-title ng-bind="$ctrl.speaker.name"></ion-nav-title>
   <ion-content>
-    <h4 class="white-text" ng-bind="$ctrl.speaker.title"></h4>
+    <div class="speaker-container">
+      <img class="speaker-image" src="{{ $ctrl.speaker.imageUrl }}">
+      <h4 class="speaker-title white-text" ng-bind="$ctrl.speaker.title"></h4>
+    </div>
     <div class="card padding" ng-show="$ctrl.speaker.description" ng-bind="$ctrl.speaker.description"></div>
-    <h4 class="white-text">Speaking At</h4>
+    <h4 class="white-text">Presenting At</h4>
     <session-list-item session="session" ng-repeat="session in $ctrl.sessions"></session-list-item>
   </ion-content>
 </ion-view>

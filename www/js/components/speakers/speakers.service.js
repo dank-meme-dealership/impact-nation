@@ -59,6 +59,7 @@
      */
     function mapSpeaker(speaker) {
       speaker.name = [speaker.firstName, speaker.lastName].join(' ');
+      speaker.imageUrl = speaker.imageUrl || 'http://www.freeiconspng.com/uploads/face-head-man-icon-6.png';
       return speaker;
     }
   }
