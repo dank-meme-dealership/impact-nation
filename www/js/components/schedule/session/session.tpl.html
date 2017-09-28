@@ -1,7 +1,8 @@
 <ion-view>
-  <ion-nav-title ng-bind="$ctrl.session.title"></ion-nav-title>
+  <ion-nav-title>Session</ion-nav-title>
   <ion-content>
-    <div class="card padding" ng-bind="$ctrl.session.description"></div>
+    <div class="item session-title" ng-bind="$ctrl.session.title"></div>
+    <div class="item-body padding" ng-bind="$ctrl.session.description"></div>
     <h3 class="padding-left">Speakers</h3>
     <ion-list ng-if="$ctrl.session.speakers.length">
       <speaker-list-item speaker="speaker" ng-repeat="speaker in $ctrl.session.speakers"></speaker-list-item>

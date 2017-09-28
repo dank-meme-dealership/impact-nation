@@ -12,3 +12,16 @@
 .card .item:last-child .item-content {
   border-top: 1px solid #ddd;
 }
+
+.session-list-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.session-title {
+  overflow: auto;
+  text-overflow: inherit;
+  white-space: normal;
+  text-align: center;
+}
