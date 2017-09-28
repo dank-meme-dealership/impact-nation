@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "firstName": "",
-    "lastName": "Speaker Coming Soon!",
-    "suffix": "",
-    "title": "",
-    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Impact-Square.jpg",
-    "description": ""
-  },
-  {
     "id": 2,
     "firstName": "Mike",
     "lastName": "Mutka",
