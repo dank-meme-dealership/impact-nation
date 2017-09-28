@@ -9,7 +9,7 @@
     <h3 class="session-detail-title white-text" ng-bind="$ctrl.session.title"></h3>
     <h4 class="session-location ion-location white-text"> {{ $ctrl.session.location }} | {{ $ctrl.session.displayDate }}</h4>
     <div class="card padding" ng-bind="$ctrl.session.description"></div>
-    <h3 class="padding-left">Speakers</h3>
+    <h4 class="white-text">Speakers</h4>
     <div class="padding-left" ng-if="$ctrl.session.speakers.length === 0">No speakers are available for this session</div>
     <ion-list ng-if="$ctrl.session.speakers.length">
       <speaker-list-item speaker="speaker" ng-repeat="speaker in $ctrl.session.speakers"></speaker-list-item>

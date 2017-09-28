@@ -3,5 +3,7 @@
   <ion-content>
     <h4 class="white-text" ng-bind="$ctrl.speaker.title"></h4>
     <div class="card padding" ng-show="$ctrl.speaker.description" ng-bind="$ctrl.speaker.description"></div>
+    <h4 class="white-text">Speaking At</h4>
+    <session-list-item session="session" ng-repeat="session in $ctrl.sessions"></session-list-item>
   </ion-content>
 </ion-view>
