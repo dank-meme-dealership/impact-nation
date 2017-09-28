@@ -5,8 +5,10 @@
       <img class="speaker-image" src="{{ $ctrl.speaker.imageUrl }}">
       <h4 class="speaker-title white-text" ng-bind="$ctrl.speaker.title"></h4>
     </div>
+    <div class="card padding" ng-show="!$ctrl.speaker.description">This speaker has no bio</div>
     <div class="card padding" ng-show="$ctrl.speaker.description" ng-bind="$ctrl.speaker.description"></div>
     <h4 class="white-text">Presenting At</h4>
+    <div class="card padding" ng-if="$ctrl.sessions.length === 0">This speaker is not scheduled to present</div>
     <session-list-item session="session" ng-repeat="session in $ctrl.sessions"></session-list-item>
   </ion-content>
 </ion-view>

@@ -1,5 +1,5 @@
 h2.speaker-name {
-  font-weight: 400;
+  font-weight: bold;
 }
 
 h4.speaker-title-item {
@@ -7,4 +7,18 @@ h4.speaker-title-item {
   text-overflow: inherit;
   white-space: normal;
   font-size: 13px;
+}
+
+div.speaker-info {
+  display: inline-block;
+  vertical-align: middle;
+  height: 50px;
+  padding-left: 10px;
+}
+
+img.speaker-avatar {
+  max-height: 50px;
+  max-width: 50px;
+  vertical-align: middle;
+  border-radius: 5px;
 }
