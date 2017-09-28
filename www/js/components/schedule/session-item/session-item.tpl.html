@@ -7,7 +7,9 @@
     <div class="vertical-divider"></div>
     <div>
       <h2 class="session-title" ng-bind="$ctrl.session.title"></h2>
-      <h4 class="session-location ion-location" ng-bind="' ' + $ctrl.session.location"></h4>
+      <h4 class="session-location">
+        {{ $ctrl.session.displayDate }} | <span class="ion-location"> {{ $ctrl.session.location }}</span>
+      </h4>
     </div>
   </div>
   <schedule-button session="$ctrl.session"></schedule-button>
