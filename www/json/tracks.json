@@ -14,7 +14,9 @@
     "name": "CMT User Group",
     "sessions": [
       2,
-      3
+      3,
+      15,
+      16
     ]
   },
   {
@@ -54,6 +56,16 @@
     "sessions": [
       9,
       10
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Training and Workshops",
+    "sessions": [
+      11,
+      12,
+      13,
+      14
     ]
   }
 ]
