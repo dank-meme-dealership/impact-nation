@@ -1,10 +1,10 @@
 h2.speaker-name {
-  font-weight: bold;
+  font-weight: 400;
 }
 
 h4.speaker-title-item {
   overflow: auto;
   text-overflow: inherit;
   white-space: normal;
-  font-size: 14px;
+  font-size: 13px;
 }

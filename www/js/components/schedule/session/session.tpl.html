@@ -2,15 +2,18 @@
   <ion-nav-title>Session</ion-nav-title>
   <ion-nav-buttons side="right">
     <button class="button button-clear" ng-click="$ctrl.toggleScheduled()">
-      <a class="font400">{{ $ctrl.isScheduled ? 'Added' : 'Add' }}</a> <schedule-button session=$ctrl.session></schedule-button>
+      <a class="font400">{{ $ctrl.isScheduled ? 'Added' : 'Add' }}</a>
+      <schedule-button session=$ctrl.session></schedule-button>
     </button>
   </ion-nav-buttons>
   <ion-content>
     <h3 class="session-detail-title white-text" ng-bind="$ctrl.session.title"></h3>
-    <h4 class="session-location ion-location white-text"> {{ $ctrl.session.location }} | {{ $ctrl.session.displayDate }}</h4>
+    <h4 class="white-text">{{ $ctrl.session.displayDate }}, {{ $ctrl.session.startTimeFormatted }} - {{ $ctrl.session.endTimeFormatted }}</h4>
+    <h4 class="ion-location white-text"> {{ $ctrl.session.location }}</h4>
     <div class="card padding" ng-bind="$ctrl.session.description"></div>
     <h4 class="white-text">Speakers</h4>
-    <div class="padding-left" ng-if="$ctrl.session.speakers.length === 0">No speakers are available for this session</div>
+    <div class="padding-left" ng-if="$ctrl.session.speakers.length === 0">No speakers are available for this session
+    </div>
     <ion-list ng-if="$ctrl.session.speakers.length">
       <speaker-list-item speaker="speaker" ng-repeat="speaker in $ctrl.session.speakers"></speaker-list-item>
     </ion-list>

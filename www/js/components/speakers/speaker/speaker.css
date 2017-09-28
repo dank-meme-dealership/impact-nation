@@ -1,0 +1,13 @@
+.speaker-container {
+  display: flex;
+  align-items: center;
+}
+
+.speaker-image {
+  height: 150px;
+  margin: 10px;
+}
+
+.speaker-title {
+  text-align: center;
+}
