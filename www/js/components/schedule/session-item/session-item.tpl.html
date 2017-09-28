@@ -1,4 +1,4 @@
-<ion-item class="item item-icon-right session-item" ui-sref="app.session({ sessionID: $ctrl.session.id })">
+<ion-item class="item session-item" ng-class="{'item-icon-right': !$ctrl.disableEdit}" ui-sref="app.session({ sessionID: $ctrl.session.id })">
   <div class="session-content">
     <h4 class="time-area" align="right">
       <div class="session-start-time" ng-bind="$ctrl.session.startTimeFormatted"></div>
@@ -12,5 +12,5 @@
       </h4>
     </div>
   </div>
-  <schedule-button session="$ctrl.session"></schedule-button>
+  <schedule-button session="$ctrl.session" ng-if="!$ctrl.disableEdit"></schedule-button>
 </ion-item>

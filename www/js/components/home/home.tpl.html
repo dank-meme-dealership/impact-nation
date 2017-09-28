@@ -1,10 +1,12 @@
 <ion-view view-title="Impact Nation">
   <ion-content>
     <div class="card">
-      <div class="item item-divider">Your next sessions</div>
-      <div class="item-body" ng-if="$ctrl.userSessions.length === 0">You have no sessions scheduled</div>
+      <div class="item item-divider">Your upcoming sessions</div>
+      <div class="item-body text-center positive" ng-if="$ctrl.userSessions.length === 0" ui-sref="app.schedule">
+        Add sessions to your schedule
+      </div>
       <ion-list>
-        <session-list-item session="session" ng-repeat="session in $ctrl.userSessions"></session-list-item>
+        <session-list-item session="session" disable-edit="true" ng-repeat="session in $ctrl.userSessions"></session-list-item>
       </ion-list>
     </div>
   </ion-content>
