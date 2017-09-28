@@ -8,3 +8,13 @@
 .impact-logo-container img {
   width: 280px;
 }
+
+.home-footer {
+  background: transparent;
+  color: white;
+  height: 35px;
+}
+
+.home-footer .title {
+  font-size: 12px;
+}
