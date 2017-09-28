@@ -5,15 +5,17 @@
     "lastName": "Speaker Coming Soon!",
     "suffix": "",
     "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Impact-Square.jpg",
     "description": ""
   },
   {
     "id": 2,
     "firstName": "Mike",
-    "lastName": "Mukta",
+    "lastName": "Mutka",
     "suffix": "",
     "title": "Chief Strategy and Corporate Development Officer, Relias",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/reliaslearning-April2016/Images/mike-mutka-2.jpg",
+    "description": "Mike Mutka is the Chief Strategy and Corporate Development Officer at Relias Learning. Previously he was the Executive Vice President of Sales and Marketing. Prior to this position, he was President of Silverchair Learning Systems, LLC, which is now part of Relias Learning. Mike also served as the company’s Executive Vice President of Sales and Marketing from 2005-2009. During that time, he built the sales and marketing organization from just two people to a team of 20+ professionals with an impressive track record of growth. Prior to Silverchair Learning, Mike worked for the Hill-Rom Company, Berchtold Corporation, and Briggs Healthcare, all leaders in their markets, and gained extensive experience in new product development, sales and marketing management, strategic planning, and Kaizen continuous improvement methodology. He earned a Bachelor’s degree in Business and an MBA in Marketing from Indiana University‘s Kelley School of Business."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "lastName": "Clayton",
     "suffix": "",
     "title": "Translational Neuroscience Strategist, Relias",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Resource_Images/Webinars/Presenters/carol-clayton.jpg",
+    "description": "Dr. Clayton is a licensed, practicing psychologist with 30 years of healthcare experience in the public and private sector, including non-profit and private practice work. She currently works as the Translational Neuroscientist for Relias, a NC Based Company specializing in online workforce development and training. Before joining Relias, Dr. Clayton served as the CEO of Care Management Technologies, a health IT data analytics company recently acquired by Relias. Prior to her tenure as CEO of CMT, Dr. Clayton served as the Executive Director for the North Carolina Council of Community MH/DD/SA Programs, a nonprofit corporation representing public MH/DD/SA service organizations. She began her career as a psychologist at a local NC state psychiatric facility followed by leading regional public community health child and family services under a capitated Medicaid waiver in NC. Dr. Clayton also served as the Executive Director for Magellan Health Services for the South Atlantic states of North Carolina, South Carolina, Tennessee and Georgia. She has broad public and private sector management and leadership experience."
   },
   {
     "id": 4,
@@ -29,6 +32,7 @@
     "lastName": "Hallisey",
     "suffix": "",
     "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Barbara-Hallisey.jpg",
     "description": ""
   },
   {
@@ -37,7 +41,8 @@
     "lastName": "Lamothe",
     "suffix": "",
     "title": "Former Prime Minister, Republic of Haiti",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Laurent-Lamothe.jpg",
+    "description": "Laurent S. Lamothe successfully served as Prime Minister of Haiti from May 2012 to December 2014, the longest tenure of any Prime Minister in the last three decades. During his time in office, Lamothe presided over the design and implementation of an important social policy agenda targeting the poorest sectors of the Haitian population. He also presided over the largest infrastructure development in recent memory."
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "lastName": "Streuly",
     "suffix": "",
     "title": "Training and Development Specialist, Bethesda Lutheran Communities",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Greg-Struely.jpg",
+    "description": "Greg He holds a Masters degree in Education from the University of Wisconsin - La Crosse as well as a Bachelors degree in Special Education from University of Wisconsin - Whitewater. He is a member of the American Association of Educators and the Wisconsin State Reading Association."
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "lastName": "Wallace",
     "suffix": "",
     "title": "Director of Professional Services, Relias",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Resource_Images/Webinars/Presenters/Candace-Wallace.jpg",
+    "description": "Candace joined Relias Learning in 2013. While at Relias, Candace has held the positions of Support Consultant, Client Success Manager, Support Manager, and now Director of Support. Candace is responsible for all areas of client support at Relias Learning and is supported by an amazing team of Support Consultants, Client Success Managers, Solutions Consultants, and Managers. Previously, Candace worked as Laboratory Director for Archaeological Research at Atkins. Candace holds Bachelor’s degrees in both Archaeology and Religion from Baylor University."
   },
   {
     "id": 8,
@@ -61,6 +68,7 @@
     "lastName": "Coro",
     "suffix": "",
     "title": "Director of Accounts Management, Relias Learning",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Bryon-Coro.jpg",
     "description": ""
   },
   {
@@ -69,6 +77,7 @@
     "lastName": "Minor",
     "suffix": ", MS, PA",
     "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Laura-Minor.jpg",
     "description": "Ms. Minor has been working for 25 years at Wheeler Clinic in many roles including leading community-based prevention programs, training in diverse adult and youth settings and most recently as Staff Development Manager. Ms. Minor also is an adjunct faculty member at the University of Connecticut Master’s in Public Health program. Prior experience includes directing a large citywide HIV/AIDS program, overseeing all aspects of a women’s clinic and providing direct client care in both an inner city clinic and a hospital. Ms. Minor earned her Bachelor’s degree in Biology at the University of Connecticut, her Physician Assistant professional certificate from the United States Public Health Services Hospital in Staten Island, NY and her Master’s in Health Services from California College for Health Sciences."
   },
   {
@@ -77,6 +86,7 @@
     "lastName": "Joseph",
     "suffix": ", MSN",
     "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Heidi-Joseph.jpg",
     "description": "Ms. Joseph has worked in healthcare settings for 20 years, including hospital based acute care and community health centers in the role of staff nurse, infection prevention and control, staff development and training, as well as executive leadership.  Heidi is a Connecticut native and earned her Bachelors of Nursing from University of Saint Joseph, Masters in Nurse from University of Hartford and is currently pursuing a Doctorate of Nursing Practice in Leadership at Quinnipiac University.  She currently oversees daily operations of the integrated Health and Wellness Centers at Wheeler Clinic."
   },
   {
@@ -85,7 +95,8 @@
     "lastName": "Sundquist",
     "suffix": "",
     "title": "Author and Paralympian",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/josh-sundquist-square.jpg",
+    "description": "Josh a bestselling author, motivational speaker, and Paralympic ski racer. He has spoken across the world to groups ranging from Fortune 500 companies to inner city public schools to the White House. At age nine, Josh was diagnosed with a rare form of bone cancer and given a fifty percent chance to live. He spent a year on chemotherapy treatments and his left leg was amputated. Doctors declared Josh cured of the disease at age thirteen and he took up ski racing three years later. He trained for the next six years and in 2006 he was named to the US Paralympic Ski Team for the 2006 Paralympics in Turino, Italy."
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "lastName": "Lokken",
     "suffix": "",
     "title": "CEO, WhiteCloud Analytics",
-    "description": ""
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Bob-Lakken.jpg",
+    "description": "Bob Lokken serves as the VP of Analytics for Relias Learning. Lokken recently joined the Relias team from WhiteCloud Analytics, where he was founder and CEO. Also, Lokken serves on the System Board of Trustees for St. Luke’s Health System, and serves as Chairman of the Board of Directors of Idaho Business for Education, a business advocacy organization of 185 CEO’s across the state."
   },
   {
     "id": 13,
@@ -101,6 +113,880 @@
     "lastName": "Chasin",
     "suffix": "",
     "title": "CIO, St. Luke's Health System",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Marc-Chasin.jpg",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "firstName": "Aaron",
+    "lastName": "Whiting",
+    "suffix": "",
+    "title": "SMB Support Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/aaron-whiting.jpg",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "firstName": "Alex",
+    "lastName": "Cook",
+    "suffix": ", MPH",
+    "title": "Central City Concern",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Alex-Cook.jpg",
+    "description": "Alex has eight years of experience in social services and non-profit administration, including pioneering Central City Concern’s training function, growing the department, and developing and implementing the Relias Learning Management System for 900 active users. While working at Central City Concern, Alex completed graduate studies in public health in 2015 with a focus on statistics and a passion for data visualization. In additional to formal education, Alex is knowledgeable in participatory leadership, group facilitation, and lean management."
+  },
+  {
+    "id": 16,
+    "firstName": "Alexis",
+    "lastName": "Scott",
+    "suffix": "",
+    "title": "Staff Development Coordinator, Covenant Woods",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Alexis-Scott.jpg",
+    "description": "Alexis has been working as a Staff Development Coordinator since October 2015, a transition from teaching in a public school. She has been facilitating New Hire Orientations since November 2015. Alexis is a member of the national Association for Talent Development as well as her local chapter."
+  },
+  {
+    "id": 17,
+    "firstName": "Alyson",
+    "lastName": "Erwin",
+    "suffix": "",
+    "title": "Senior Partner for Analytic Solutions, WhiteCloud Analytics",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Alyson-Erwin.jpg",
+    "description": "Alyson has spent most of her career creating and deploying business intelligence products and solutions. At WhiteCloud, she is responsible for a team of developers who create custom analytic solutions for St. Luke’s Health System (a top 15 hospital) and other WhiteCloud customers. Prior to joining WhiteCloud, Alyson was a senior program manager for Microsoft, where she was responsible for collecting customer feedback, ensuring early adopter success, and managing early adopter programs for PerformancePoint Services. Previously, Alyson was a technical product manager for ProClarity Corporation, responsible for customer programs, product feedback, and early deployments, and a senior consultant deploying business intelligence solutions, and creating and delivering training materials. She has been a featured speaker at several business intelligence and technical conferences, including TechEd, SQL PASS, and the Microsoft BI Conference, among others. Alyson holds a BS in Mathematics from Idaho State University. As a dedicated runner, Alyson has been known to strap on a head lamp and traction devices so that she could run in the dark on icy winter roads."
+  },
+  {
+    "id": 18,
+    "firstName": "Amanda",
+    "lastName": "Loker",
+    "suffix": "",
+    "title": "Learning Development Specialist, Children’s Home Society of Florida",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Amanda-Loker.jpg",
+    "description": "Amanda has a master’s degree in Education and has been a learning management systems administrator for 11 years and has worked with Relias for five years. She manages the Children’s Home Society of Florida’s training program."
+  },
+  {
+    "id": 19,
+    "firstName": "Ammie",
+    "lastName": "Black",
+    "suffix": "",
+    "title": "Training and Development Associate, South Fort Myers Life Plan Community of Cypress Cove at HealthPark Florida",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Ammie-Black.jpg",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "firstName": "Amrita",
+    "lastName": "Sethi",
+    "suffix": ", MBA, DHA",
+    "title": "Training and Workforce Administrator, Mercy Maricopa Integrated Care",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Amrita-Sethi.jpg",
+    "description": "Amrita Sethi has been employed in the fields of allied health education and managed care training for 20 years. After earning her BS in Biotechnology from Rochester Institute of Technology, she worked briefly as a research associate in the field. Amrita realized that teaching was a passion of hers after working as a high school teacher in the areas of math and science. Amrita then transitioned to lead and teach allied health professionals and educators for several years prior to joining the world of corporate training. She led a team of training professionals for a large financial organization and then joined Aetna Medicaid health plans. Throughout her 11 year career for Aetna Medicaid she held several training leadership positions. In her current role for Mercy Maricopa Integrated Care, a health plan managed by Aetna Medicaid she leads of team of operational and clinical professionals responsible for the oversight of training for more than 11,000 individuals in Maricopa County. She has also earned a Master’s in Business Administration and a Doctorate of Health Care Administration."
+  },
+  {
+    "id": 21,
+    "firstName": "Amy",
+    "lastName": "Johnson",
+    "suffix": "",
+    "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Amy-Johnson.jpg",
+    "description": "Amy has worked in long term care for over 35 years beginning as a nursing assistant and moving to DON position for over 17 years as well as Regional and Divisional Roles. She trained customer service initiatives to improve overall job satisfaction and improve retention within 16 centers. She moved into the Clinical Informatics field training and overseeing EMR conversions."
+  },
+  {
+    "id": 22,
+    "firstName": "",
+    "lastName": "Ben Cohen & Jerry Greenfield",
+    "suffix": "",
+    "title": "Co-Founders, Ben & Jerry's Homemade Ice Cream",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/Ben-and-Jerry.jpg",
+    "description": "Ben Cohen and Jerry Greenfield are the men behind one of the most talked-about and least conventional success stories in American business. Founders of Ben and Jerry’s Homemade, Inc., they built a store-front venture into an ice cream and business phenomenon by harnessing the power of social responsibility and creative management. With their best-selling Ben & Jerry’s Double-Dip: How to Run a Values Led Business and Make Money Too, they created a nuts-and-bolts guidebook to the promise and pitfalls of “values-led” business, as well as an inspiring wake-up call about the growing international influence of the “socially conscious” or “mission driven” corporation."
+  },
+  {
+    "id": 23,
+    "firstName": "Beth",
+    "lastName": "Malterud",
+    "suffix": ", MA, LAC",
+    "title": "Director of Training and Public Relations, Crisis Response Network",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Beth-Malterud.jpg",
+    "description": "Beth is responsible for the design, development, and oversight of Crisis Response Network’s learning programs. Additionally, Beth manages public relations activities and delivers internal and external messaging and brand recognition oversight. Beth earned her bachelor’s degree in psychology and her master’s degree in clinical mental health counseling from Argosy University. Beth also serves on the education and conference committees for the Arizona Coalition to End Homelessness and is a volunteer for Free Arts AZ and Arizona Family Hospice."
+  },
+  {
+    "id": 24,
+    "firstName": "Bill",
+    "lastName": "Dombi",
+    "suffix": "",
+    "title": "Vice President for Law, NAHC",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/bill-dombi.jpg",
+    "description": "Bill Dombi specializes in legal, legislative, and regulatory advocacy on behalf of patients and providers of home health and hospice care. With nearly 40 years of experience in health care law and policy, Bill Dombi has been involved in virtually all legislative and regulatory efforts affecting home care and hospice since 1975, including the expansion of the Medicare home health benefit in 1980, the formation of the hospice benefit in 1983, the institution on Medicare PPS for home health in 2000, and the national health care reform legislation in 2010. With litigation, Dombi was lead counsel in the landmark lawsuit that reformed the Medicare home health services benefit, challenges to HMO home care cutbacks for high-tech home care patients, lawsuits against Medicaid programs for inadequate payment rates, along with current lawsuits challenging the Medicare home health face-to-face encounter rule and the Department of labor changes to the overtime rules under the Fair labor Standards Act. In addition to litigation, Bill offers extensive community and professional educational services through lectures, publications, teleconferences, and videos. He is the Editor and lead author of Home Care & Hospice Law: A Handbook for Executives, the only comprehensive legal treatise on the topic. His lectures include market trends in home care, compliance, risk management, patient rights, fraud and abuse, health care reimbursement, legislative and regulatory reforms, and legal issues in telehealth services. Bill Dombi is admitted to practice in Connecticut and Washington, DC. He is also admitted to numerous federal courts including, the US Supreme Court and several Court of Appeals. He has served on the Advisory Board for BNA’s Health Law Report and Medicare Report. Bill also is a longstanding member of the American Health Lawyers Association and the American Bar Association."
+  },
+  {
+    "id": 25,
+    "firstName": "Billie Jo",
+    "lastName": "Nutter",
+    "suffix": "",
+    "title": "President/CEO, Brighton Rehabilitation, LLC and Senior Vice President of Operational Support, Avalon Health Care, Inc.",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Billie-Jo-Nutter.jpg",
+    "description": "Billie serves in a dual operations role for Avalon Healthcare Group. With over 20 years of healthcare experience, she brings a wealth of knowledge from a variety of health care settings. Her operational background has enabled her to identify specific organizational opportunities for change that drive providers towards success in today’s reform environment."
+  },
+  {
+    "id": 26,
+    "firstName": "Brian",
+    "lastName": "Lee",
+    "suffix": "",
+    "title": "Founder and CEO, Custom Learning Systems Group Ltd",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Brian-Lee.jpg",
+    "description": "Brian Lee has assisted rural hospitals, hospital systems and long term care organizations for over 33 years, and in the past 15 years alone, has worked with 345 Critical Access Hospitals in quality and process improvement by providing leading edge, practical solutions to employee engagement and patient satisfaction – the total patient experience continuum. He is recognized as one of North America’s leading experts in patient, employee, and physician loyalty. Brian is the author of 8 books, including: Keep Your Nurses & Healthcare Professionals for Life, Satisfaction Guaranteed, and Hospital of Choice and creator of the renowned ‘HCAHPS Breakthrough Webinar Series, designed to raise and sustain HCAHPS scores. Custom Learning Systems focus is on creating a world-class patient experience by total staff engagement and increased physician satisfaction for its hospital clients."
+  },
+  {
+    "id": 27,
+    "firstName": "Captain Amanda",
+    "lastName": "Pasley",
+    "suffix": "",
+    "title": "Law Enforcement Training Instructor, Arkansas Department of Correction",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Amanda-Bacus.jpg",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "firstName": "Carole",
+    "lastName": "Matyas",
+    "suffix": "",
+    "title": "Vice President Behavioral Health Operations, WellCare",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/carole.jpg",
+    "description": "Carole Matyas is the Vice President of WellCare’s Behavioral Health Operations. She oversees enterprise wide behavioral health operations for the company, and a key focus for Carole is to assure that WellCare develops a fully integrated medical/behavioral program that is centered in whole person attention and care. Carole has more than 30 years of behavioral health-related experience, with 15 of those years of experience in health plan operations. She joined WellCare in 2011 and previously worked for Magellan Health Services, first as a general manager for call center operations, and then as Chief of Clinic Operations, where she led practice management and operations of 23 mental health clinics and a psychiatric urgent care center in Arizona. Her additional experience includes serving as Vice President of Public Sector Operations for Schaller Anderson, a Medicaid managed care organization and helped to develop their integrated model; and as Vice President for Value Options, a managed behavioral health care company whose contracts included carve out managed care for state and government agencies, where Carole was executive lead on a large carve out program in Texas. Carole spent her early career as a licensed social worker providing direct clinical services in a group practice, community mental health and a residential treatment center. In February 2013, Carole was appointed to serve on the Board of Directors for Drug Abuse Comprehensive Coordinating Office, Inc. (DACCO) in Tampa, Fl. Carole has been the recipient of awards from Mental Health America and NAMI for her dedication to mental health advocacy Carole earned both her undergraduate and Master of Social Work degrees from Marywood University in Scranton, Pennsylvania."
+  },
+  {
+    "id": 29,
+    "firstName": "Christie",
+    "lastName": "Onato",
+    "suffix": "",
+    "title": "Director of Quality Assurance &amp; Training, Child &amp; Family Service",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/Christie-Onato.jpg",
+    "description": "Christie has a Masters Degree in Marriage & Family Therapy and has worked in the Human Service field for over 16 years. She has 11 years of experience in working in the Quality Assurance & Training field and is currently the Director of Quality Assurance & Training at Child & Family Service in Hawaii. Her organization has been using the RLMS for 4 years."
+  },
+  {
+    "id": 30,
+    "firstName": "Christopher",
+    "lastName": "Reist",
+    "suffix": ", MD MBA",
+    "title": "Associate Professor in the Department of Psychiatry and Human Behavior,",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Christopher_Reist.jpg",
+    "description": "Dr. Reist is an Associate Professor (with tenure) in the Department of Psychiatry and Human Behavior at the University of California, Irvine. He also serves as Assistant Dean in the College of Medicine and the Director of Medical Research for the Long Beach Veterans Affairs Healthcare System. Formerly he served as Chief of Mental Health, overseeing full service mental health care delivery to over 40,000 enrollees at the Long Beach VA Healthcare System. For the past 12 years he has served as Associate Director of the Southern California VA Mental Illness Research, Education and Clinical Center (MIRECC) which is focused on improving long term outcomes in chronic psychotic disorders through basic/clinical research and dissemination of evidence-based practices. Dr. Reist received his undergraduate degree in chemistry and biology at Eastern Mennonite University in Harrisonburg, Virginia. Following medical training at the Medical College of Virginia in Richmond, Virginia, he completed his psychiatry residency at the University of California, Irvine. Additionally, he attained a MBA from the Anderson School of Management at the University of California in Los Angeles. Dr. Reist’s clinical interests include schizophrenia, impulsivity, PTSD, pharmacogenomics, and psychopharmacology. NARSAD, NIMH, and VA Medical Research have supported his research. He has served as principal investigator on over 25 clinical trials in areas including schizophrenia, depression, bipolar disorder and impulsivity. He is a member of professional societies including the American Psychiatric Association, Pacific Rim Association for Clinical Pharmacogenetics and the Society of Biological Psychiatry. He is a Distinguished Fellow of the Psychiatric Association, has been recognized as an Exemplary Psychiatrist by the National Alliance for the Mentally Ill and is included in Best Doctors, 2007-2010. He is the author of two books, Psychiatry and Psychiatric Drugs which have been widely used by trainees for the past 15 years. He has over 50 scientific articles that have been published in high impact journals including Molecular Psychiatry, Biological Psychiatry, Journal of Clinical Psychiatry, American Journal of Psychiatry, and Nature Biotechnology. Lastly, he has extensive experience in psychiatric education that include organizing CME conferences (www.mirecc.va.gov/visn22) and developing web content that provide information on psychiatric disorders and treatment."
+  },
+  {
+    "id": 31,
+    "firstName": "Dana",
+    "lastName": "Thomas",
+    "suffix": "",
+    "title": "VP of Content Development, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/reliaslearning-April2016/Images/Dana-Thomas.jpg",
+    "description": "Dana Thomas is the VP of Content Development at Relias Learning. He leads a team of 40+ individuals working with hundreds of Subject Matter Experts to develop the Relias eLearning libraries. He joined Relias in 2009 and brought with him over a decade of instructor led and asynchronous training experience. He is passionate about efficient training and will literally talk your ear off about it, if you let him."
+  },
+  {
+    "id": 32,
+    "firstName": "Dave",
+    "lastName": "Hare",
+    "suffix": "",
+    "title": "VP of Training and Leadership Development, Trilogy Health Services",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/david-hare.jpg",
+    "description": "Dave has spent the majority of his life developing others, but over the last ten years, he has focused on the development of leaders. Dave has his Masters degree in Psychology with a concentration in Leadership and Organizational Development and provides executive coaching services both inside and outside of the organization. Dave has built learning and development strategies and organizations for two Fortune 100 companies within the financial and health care sectors. Dave is currently accountable for Training and Leadership development within Trilogy Health Services, which is a Midwest based Senior Care Company that delivers Long Term Care services to more than 9,000 seniors daily. Dave's passion for serving seniors is one of the greatest privileges and most rewarding things he has ever done. A key contributor to the success in delivering exceptional service at each of our 98 Health Centers as well as through our Pharmacy and Rehabilitation businesses is building a culture of LEADERS. When Dave is not focused on organizational leadership development, he is with his amazing wife of 22 years and three children. If it is spring or summer you will find Dave in a dugout or on the baseball field, as coaching competitive baseball is one of his favorite hobbies. Aside from “marrying-up,” Dave’s only claim to fame is being a contestant on the Family Feud with Steve Harvey."
+  },
+  {
+    "id": 33,
+    "firstName": "Debi",
+    "lastName": "Damas",
+    "suffix": ", RN",
+    "title": "Sr. Product Manager for Senior Care, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Imported_Blog_Media/Debi-Damas.jpg",
+    "description": "Debi is responsible for the direction of new content and the maintenance of existing courses, and works closely with accreditation experts to ensure that Relias courses accurately reflect current regulations and evidence-based standards of practice. Ms. Damas has a certificate in legal nurse consulting and extensive regulatory compliance experience in senior care. She has more than 18 years of senior care clinical experience, holding positions such as Nursing Assistant, Charge Nurse, MDS Nurse, Restorative Nurse, Director of Nursing, Regional Nurse, and Corporate Nurse. Recognized for her hands-on and collaborative leadership style, Ms. Damas consistently leads the Relias’ Senior Care Team to achieve quality benchmarks for senior care courses."
+  },
+  {
+    "id": 34,
+    "firstName": "Dennis",
+    "lastName": "McCarter",
+    "suffix": "",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/dennis-mccarter.jpg",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "firstName": "Diane",
+    "lastName": "Geis",
+    "suffix": "",
+    "title": "EVP and Chief Personnel Officer, Altercare of Ohio, Inc. and TSG Resources, Inc.",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Diane-Geis.jpg",
+    "description": "Diane Geis, Chief Personnel Officer, is responsible for the management, operations, procedure development and staff development under the Human Resource function for 20 rehabilitation and nursing care facilities throughout Ohio, and one in Michigan and 15 Management and Ancillary Services Companies in addition to a managed LTC facility. Areas of responsibility include strategic planning, recruitment, regulatory compliance, retention and education and training, of over 3,300 employees in the TSG Resources, Inc. group of Companies. She also serves as the Corporate Compliance Officer for the Organization. During her tenure as Executive Vice President, Altercare of Ohio, Inc. and TSG Resources, Inc. has experienced significant growth and earned several industry recognitions. The Company has received the NorthCoast 99 Award for thirteen consecutive years, recognition given to the 99 top workplaces in Northeast Ohio by the Employers Resource Council. She holds a PHR certification in Human Resource Management and a CHC Healthcare Compliance Certification."
+  },
+  {
+    "id": 36,
+    "firstName": "Doreen",
+    "lastName": "Jones",
+    "suffix": "",
+    "title": "Solutions Consultant, Skillsoft",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Doreen-Jones.jpg",
+    "description": ""
+  },
+  {
+    "id": 37,
+    "firstName": "Dr. Amanda",
+    "lastName": "Kelly",
+    "suffix": "",
+    "title": "Director, Anuenue Behavior Analysts",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/amanda-kelly.jpg",
+    "description": "Dr. Amanda N. Kelly, 2015 HABA President, received her her PhD in Behavior Analysis from Simmons College and currently serves as Executive Director for Keiki Educational Consultants, Inc. She has been licensed as an elementary education teacher for the past 15 years and certified as a Behavior Analyst for the last 10. Dr. Kelly published two articles in the past year: Effects of Presession Pairing for Children with Autism and Blurred Lines: Ethical Implications of Social Media. Dr. Kelly is also a proud co-author of the 2015 Hawaii licensure for behavior analysts state law. In addition, to her consulting business, Dr. Kelly works part-time as a K8 Counselor in Honolulu, as Director of the UWF Hawaii ABA Cohort, as Exam Prep Instructor for the Global Autism Project, ABA Marketing Liaison for Relias Learning and as the Past President of the Hawaii Association for Behavior Analysis (HABA) and the Dissemination of Behavior Analysis Special Interest Group (DBA-SIG)."
+  },
+  {
+    "id": 38,
+    "firstName": "Dr. Joe",
+    "lastName": "Parks",
+    "suffix": "",
+    "title": "Director, MO HealthNet",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Joe-Parks.jpg",
+    "description": "Dr. Parks serves as the Director of MO HealthNet, Missouri’s Medicaid authority in Jefferson City, Missouri. He also holds the position of Distinguished Research Professor of Science at the University of Missouri – St. Louis and is a Clinical Assistant Professor of Psychiatry at the University of Missouri, Department of Psychiatry in Columbia. He practices psychiatry on an outpatient basis at Family Health Center, a federally funded community health center established to expand services to uninsured and underinsured patients in central Missouri. He previously served for many years as Medical Director of the Missouri Department of Mental Health and as President of the Medical Director’s Council of the National Association of State Mental Health Program Director. He also previously served as Director of the Missouri Institute of Mental Health at University of Missouri St Louis and as Division Director for the Division of Comprehensive Psychiatric Services of Missouri Department of Mental Health. Dr. Parks has authored or coauthored a number of original articles, monographs, technical papers, and reviews on Behavioral Health services delivery and policy. He formed and led the team that developed the nation's first approved Medicaid state plan amendment for healthcare homes for persons with serious mental illness and implemented it statewide throughout Missouri in both community mental health centers and federally qualified health centers. The proposed grant will allow Missouri to evaluate and improve its efforts to reduce antipsychotic-related metabolic effects. Dr. Parks’ will work closely with the PI. At a state level Dr. Parks is responsible for design and operation of Missouri CMHC Health Homes. Dr. Parks has received several awards for developing innovative improvements to disease management and care coordination based on the use of data and information technology and will use his previous experience and national contacts to build a broad and innovative research data system for evaluating the clinical and fiscal impacts of antipsychotic induced metabolic syndrome."
+  },
+  {
+    "id": 38,
+    "firstName": "Dr. Jonathan",
+    "lastName": "McCombs",
+    "suffix": "",
+    "title": "Dean of the College of Health and Public Administration, Franklin University",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Joe-Parks.jpg",
+    "description": "Dr. Jonathan McCombs is an educator, former police officer and investigator, holds a Master‘s of Science in Criminal Justice and is currently in the dissertation phase of a PhD. in Criminal Justice. An extensive career of over 20 years in public safety and higher education provided experience in narcotics investigations, intelligence analysis, anti-terror investigations, gun trafficking investigations, street patrol, campus law enforcement administration, higher education administration, and advanced training. As an industry expert in the field of law enforcement, problem based learning, and online learning, Jonathan is currently the Criminal Justice Administration Lead Faculty at Franklin University."
+  },
+  {
+    "id": 39,
+    "firstName": "Dr. Linda",
+    "lastName": "Shell",
+    "suffix": ", MA, RN",
+    "title": "Senior Director of Education and Leadership, Volunteers of America",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/dr-linda-shell.jpg",
+    "description": "Dr. Shell is an advanced practice nurse, consultant, and educator with a passion for developing leaders and delivering quality care. She is an expert speaker on leadership, clinical practice, and workforce issues. She is Senior Director of Education and Leadership Development for Volunteers of America, a non-profit provider of services to over 30,000 elders, and chief executive officer of Lindashell.com. Volunteers of America has been a Relias user since 2008."
+  },
+  {
+    "id": 40,
+    "firstName": "Dr. Todd",
+    "lastName": "Ward",
+    "suffix": ", PhD, BCBA-D under Dr. Ramona Houmanfar at the University of Nevada, Reno",
+    "title": "President, bSci21Media, LLC",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Dr-Todd-Ward.jpg",
+    "description": ""
+  },
+  {
+    "id": 41,
+    "firstName": "Elisabeth",
+    "lastName": "Green",
+    "suffix": "",
+    "title": "Implementation Consultant, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Elisabeth-Green.jpg",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "firstName": "Elliot",
+    "lastName": "Kotek",
+    "suffix": "",
+    "title": "Executive Director - The Not Impossible Foundation",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/2017/Elliot-Kotek-Promo.jpg",
+    "description": "Elliot is a recognizable figure in the sphere of science and technology. As co-founder and content chief of Not Impossible, founding editor-in-chief of Not Impossible Now and former executive director of The Not Impossible Foundation, Elliot and his team used crowd-sourcing to crowd-solve healthcare issues by providing low-cost and DIY tech to people in need all over the world. Not Impossible projects Elliot produced include - Project Daniel - 3D Printing Prosthetic Limbs for Children of War-Torn Sudan; and two products to assist those with locked-in syndromes such as ALS or Motor Neuron Disease communicate: the Brainwriter - a prototype EEG sensor and eye-tracking device used to create and communicate using just brainwaves and eye movements; and Don's Voice - a freely downloadable interface software that helps people to spell and speak independently."
+  },
+  {
+    "id": 43,
+    "firstName": "Emaley",
+    "lastName": "McCulloch",
+    "suffix": ", M.Ed., BCBA",
+    "title": "Vice President, Relias Institute",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/emaley-mccolough.jpg",
+    "description": "In 2008 Emaley McCulloch co-founded Autism Training Solutions, LLC and is currently the Vice President of Relias Institute at Relias Learning. She is a Board Certified Behavior Analyst and holds an MA in Special Education. She has over 20 years’ experience in the field of autism and ABA and has provided and overseen services to individuals between the ages of 18 months to 24 years in homes, schools and clinical settings. For eight years she served as a consultant and supervisor at agencies based in Hawaii and Japan where she trained groups of professionals and parents."
+  },
+  {
+    "id": 44,
+    "firstName": "Erik",
+    "lastName": "Marsh",
+    "suffix": "",
+    "title": "CEO, DATIS HR Cloud",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Erik-Marsh.jpg",
+    "description": "As the CEO of DATIS HR Cloud, Erik Marsh is focused on delivering value, productivity, and efficiencies for organizations through Human Capital Management software. Erik graduated from Indiana University, Bloomington with a B.S. in Finance. After graduation, Erik worked for 5 years in various financial roles before joining Oracle, where he worked for 15 years. With over 20 years of experience in finance and software, Erik combines this knowledge to help organizations implement best-in-class technology that drives innovation and growth."
+  },
+  {
+    "id": 45,
+    "firstName": "Erika",
+    "lastName": "Taylor",
+    "suffix": "",
+    "title": "SMB Support Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/erika-taylor.jpg",
+    "description": ""
+  },
+  {
+    "id": 46,
+    "firstName": "Gabrielle",
+    "lastName": "Sedor",
+    "suffix": "",
+    "title": "Chief Operations Officer, ANCOR",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Gabrielle-Sedor.jpg",
+    "description": "Gabrielle Sedor is the Chief Operations Officer at ANCOR, the American Network of Community Options and Resources, a vibrant national trade association that represents over 1,000 community providers of intellectual and developmental disabilities services of all shapes and sizes. ANCOR’s members support over 600,000 individuals with disabilities with a workforce over a half million strong. In addition to leading ANCOR’s communications and education teams, Gabrielle helped to develop ANCOR’s Direct Support Professional Workforce Development Toolkit, which was created in partnership with the University of Minnesota’s Research and Training Center. She is also part of the team directing ANCOR’s National SOS Campaign: Funding the Future of Disability Services, which aims to address the perfect storm of unfunded mandates challenging I/DD service providers across the country. Prior to coming to ANCOR, she was the Communications Director at PAR, a Pennsylvania state provider association and ANCOR member, where she directed PAR's lobbying, marketing and communications activities. She was an integral part of a successful campaign to restore over $24M in proposed cuts to autism and ID services in Pennsylvania’s FY2011-2012 budget, as well as a multi-year effort to change the name of the PA Department of Public Welfare to the Department of Human Service (Act 132 of 2014). With over 18 years in the I/DD field, Gabrielle has strong experience in almost every aspect of association management: from lobbying, grassroots advocacy, marketing, communications, and conference development to membership retention and recruitment. She is also an active, engaged community volunteer – currently serving on the Board of the National Alliance for Direct Support Professionals (NADSP). While in Pennsylvania, she served as president of the PA Association of Government Relations, and chaired the public policy committees of the YWCA of Greater Harrisburg and the Central PA Association of Female Executives. Gabrielle graduated Brown University and went on to live and work overseas, teaching English in high schools and private institutions in Wroclaw, Poland; Santiago, Chile and London, England. In 2010, Gabrielle joined less than five percent of all association professionals by earning the Certified Association Executive (CAE) credential, the highest professional credential in the association industry."
+  },
+  {
+    "id": 47,
+    "firstName": "Gayatri",
+    "lastName": "Dubey",
+    "suffix": "",
+    "title": "Gayatri Dubey is the Senior Coordinator for Quality Assurance and Staff",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Gayatri-Dubey.jpg",
+    "description": "Gayatri Dubey is the Senior Coordinator for Quality Assurance and Staff Development for Innovative Resources for Independence (IRI). Gayatri has over ten years of experience working in the field of Traumatic Brain Injury and Intellectual/Developmental Disabilities. She is currently the lead person responsible for developing and implementing training efforts for the agency. Gayatri also oversees and manages the Relias system for over 600 employees."
+  },
+  {
+    "id": 48,
+    "firstName": "Hatti",
+    "lastName": "Olson",
+    "suffix": "",
+    "title": "Office Manager/Executive Assistant, Edgewood Management Group",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Hatti-Olson.jpg",
+    "description": "Hatti Olson serves as Office Manager/Executive Assistant at Edgewood Management Group and holds both Level I and Level II Relias certifications. As a part of her role, Hatti serves as Chair of the Education committee, responsible for overseeing/coordinating the Education Program for all Edgewood Management Group employees. Her passion is process improvement and Hatti describes herself as an “initiator of improving programs and processes.” As a part of her quest to centralize and standardize training for the Edgewood program, Hatti created and implemented the system we have the privilege of viewing today."
+  },
+  {
+    "id": 49,
+    "firstName": "Heather",
+    "lastName": "Haugen",
+    "suffix": "",
+    "title": "CEO and Managing Director, The Breakaway Group",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Heather-Haugen.jpg",
+    "description": "Dr. Heather Haugen is the CEO and Managing Director of The Breakaway Group, A Xerox Company. She was named the successor to the business founder because of her deep expertise in health information technology and because of her passion for leading and developing people. Prior to her current role, she served as the Corporate Vice President of Research, Development, and Information Systems at The Breakaway Group. Her past roles have led to a unique mix of experience, including conducting rigorous research, leading development efforts based on research outcomes, and leading and developing top-performing teams. Dr. Haugen brings a research focus to the adoption of health information technology. She has more than 20 years of research experience in both the academic and private sectors. Her research and methodology is published in her book, Beyond Implementation: A Prescription for Lasting EMR Adoption, which is a healthcare business bestseller. Dr. Haugen regularly speaks at national conferences and publishes in academic and industry publications. In addition to her research acumen, she is a respected leader who has served in an executive leadership role for over 15 years. Haugen’s research experience spans strategies to increase EHR adoption, overcome barriers to clinician adoption of new technology, institute effective health information technology education, and develop telehealth programs for disease prevention and chronic disease management. She has published in numerous health and medical journals, including the Journal of the American Dietetic Association, Journal of the American College of Nutrition, ADVANCE for Health Information Executives and Healthcare Informatics. Dr. Haugen also blogs on behalf of Xerox’s Healthcare Provider Solutions division on areas focused on overcoming the challenges of HIT adoption across the industry. She is the author of two books, Beyond Implementation: A Prescription for Lasting EMR Adoption (2010) and Beyond Coding: How ICD-10 Will Transform Clinical Documentation (2012). As a result of the research published in Beyond Implementation, she was selected as a 2010 Finalist for Champions in Healthcare. Dr. Haugen holds a faculty position at the University of Colorado Denver- Anschutz Medical Center as the Track Director of Health Information Technology, where she actively mentors doctoral students and teaches courses. She also serves as the Academic Chair for the Colorado Health Information Management Systems Society. Dr. Haugen earned her doctorate in health information technology from the University of Colorado Anschutz Medical Campus. She earned her Master of Science degree in clinical nutrition from Colorado State University, and her Bachelor’s degree in biological sciences from the University of Denver."
+  },
+  {
+    "id": 50,
+    "firstName": "James P.",
+    "lastName": "Whipple",
+    "suffix": "",
+    "title": "James Whipple has combined his 12 years of experience within the disabilities",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/James-Whipple.jpg",
+    "description": "James Whipple has combined his 12 years of experience within the disabilities field with his training in leadership and development to find real world solutions on how to improve the employee experience to increase motivation and retention. He has worked with numerous service providers in a handful of Western States, including over 8 years as an administrator and corporate trainer, executing successful team work and maximizing limited resources to achieve optimal results."
+  },
+  {
+    "id": 51,
+    "firstName": "Jamie",
+    "lastName": "Fenton",
+    "suffix": ", PhD",
+    "title": "Dr. Jamie Fenton is the Director of Staff Development for Crittenton Services",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Jamie-Fenton.jpg",
+    "description": "Dr. Jamie Fenton is the Director of Staff Development for Crittenton Services for Children and Families, in Southern California. With over a decade of adult education, training, and leadership development experience in higher education and in the non-profit sectors, she has led the development and implementation of robust training programs that meet the requirements of licensing, accreditation, and the various county, state, and federal contracts within the numerous programs at Crittenton, which include Foster Care and Adoption, Wraparound programs, a residential treatment facility, a shelter facility, Family Preservation, and Family Reunification. A social justice education, rooted in critical theory, greatly impacted her endless journey toward cultural competency, leading to Dr. Fenton’s research interest in the cultural transition of Post 9-11 combat Marines. Dr. Fenton has years of teaching Intercultural Relations at the collegiate level and is currently the Cultural Competency Training Task Force Chair and lead for the All Children All Families Initiative at Crittenton."
+  },
+  {
+    "id": 52,
+    "firstName": "Jan",
+    "lastName": "Wilson",
+    "suffix": "",
+    "title": "Director of Learning Designs and Outcomes, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Jan-Wlson.jpg",
+    "description": "Jan brings over 25 years of technology, human resources and learning expertise to the Relias Learning team. Her experience in senior care spans more than a decade, including serving as a senior executive of learning strategy with one of the country's largest providers. As an organizational development consultant, she has provided strategic planning, process alignment, curriculum development and planning and learning solutions to a variety of clients in pharma, healthcare, and state governments."
+  },
+  {
+    "id": 53,
+    "firstName": "Jen",
+    "lastName": "McCraw",
+    "suffix": "",
+    "title": "Senior Product Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Jen-McCraw.jpg",
+    "description": "Prior to her current role, Jen worked as a Nurse Practitioner and Registered Nurse in emergency rooms and level 1 trauma hospitals around the country. As a clinician, she was directly impacted by value-based initiatives in healthcare, specifically hospital reporting requirements, Medicare-payment adjustments, and Meaningful Use. In fact, it was during her third Epic implementation that she began diligently pursuing projects in quality improvement, including innovative surgical protocols, a green belt project on readmission reduction, and uses of documentation to improve patient outcomes and reimbursement. She currently uses this clinical expertise and market knowledge to aid Relias in their drive to be a part of the solution for providers and healthcare organizations as they try to navigate these changes. Jen holds a bachelor of science in nursing from Gardner-Webb University, a master of science in nursing from Vanderbilt University, and a master of business administration from NC State University."
+  },
+  {
+    "id": 54,
+    "firstName": "Jennifer",
+    "lastName": "Collins",
+    "suffix": ", RN, HSC-D, COS-C",
+    "title": "Jennifer Collins, RN, HCS-D, COS-C is an Education Consultant and Coding",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Jennifer-Collins.jpg",
+    "description": "Jennifer Collins, RN, HCS-D, COS-C is an Education Consultant and Coding Specialist for FMS. She has more than 15 years’ experience in hospital, home health, and primary care environments. Her attention to detail, application of policies and regulatory compliance, and effective communication skills have benefited her in a variety of roles from field RN through agency administrator to virtual case manager and coding specialist."
+  },
+  {
+    "id": 55,
+    "firstName": "Jim",
+    "lastName": "Triandiflou",
+    "suffix": "",
+    "title": "CEO, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Jim-Triandiflou.jpg",
+    "description": "Jim Triandiflou joined Relias Learning in July 2012. He previously served as President and CEO of ServiceCEO, a field service software company with more than 6,000 customers around the world. Prior to that role, Jim was Chief Operating Officer (COO) of Centive, a sales performance management software company that launched the industry’s first Software-as-a-Service (SaaS) commission system in 2005. He was also COO of the medical device distribution company Surgi-Care. Jim holds a BS in Marketing from State University of New York College at Oswego and an MBA from the Arizona State University Carey School of Business. He speaks frequently on SaaS, sales effectiveness, and the value of sales management."
+  },
+  {
+    "id": 56,
+    "firstName": "Jingyu",
+    "lastName": "Wang",
+    "suffix": "",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Jingyu-Wang.jpg",
+    "description": "Jingyu is managing the Client Success Manager team for the Health and Human Services field in Relias Learning. Before joining Relias, Jingyu has been working at Oracle with 15+ years of experience in building, growing, and managing highly effective service organizations (professional services, global support, strategic account management). He has a proven record of accomplishment in customer experience management and supporting Fortune 500 clients with world-class service. Jingyu holds a Master's Degree in Industrial and Management Engineering"
+  },
+  {
+    "id": 57,
+    "firstName": "Johnathan",
+    "lastName": "Clayborn",
+    "suffix": "",
+    "title": "Director of Training, Lifewell Behavioral Wellness",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/Johnathan-Clayborn.jpg",
+    "description": "Johnathan has more than 13 years of experience working in the training and development arena. Currently he serves as the Director of Training of Lifewell Behavioral Wellness. He has worked as a trainer in the technical support and customer service fields before spending 5 years training in the Behavioral Health field. Prior to that he has worked as an HR Analyst within the behavioral health field, and an Instructional Designer and a Business Process Analyst for United Healthcare’s Military & Veterans Division. He specializes in metacognition, experiential learning strategies, and streamlining training processes to be more efficient. He is a current PhD Candidate at Walden University where he is pursuing a degree in Educational Psychology and holds a Master’s Degree in Psychology with a specialization in Educational Psychology. He is a member of the APA’s Division 15 (Ed Psych) and Division 46 (Media Psych). He serves on an Ad-Hoc Psychology Today panel for Division 15. He also served as an advisor for development of a resource website, http://infoaboutkids.org/, for the Consortium for Science-Based Information on Children, Youth, and Families (CSICYF), a project sponsored by the Committee on Division/APA Relations (CODAPAR). When not focused at work, Johnathan spends time with his family, his many animals, writing both fiction and non-fiction books, and serving as an academic peer-reviewer."
+  },
+  {
+    "id": 58,
+    "firstName": "Karen",
+    "lastName": "McDonald",
+    "suffix": ", BSN",
+    "title": "Vice President, Mission Health",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/Karen-McDonald.jpg",
+    "description": "Mrs. McDonald, is a Registered Nurse with over 35 years in health care and 25 in post acute care. She is currently the Chief Clinical/Compliance Officer with Mission Health Communities based out of Tampa, Florida. Mission offers post acute services across the continuum to over 1500 residents a day in 31 Skilled Nursing and Assisted Living Communities. Ms. McDonald has been engaged with Learning Management Systems for the past 10 years, utilizing the Silverchair, Care2Learn and now the Relias platform. She successfully integrated 3 platforms in her communities into one in 2015. Karen lives in Durham, NC, hails from London, Ontario Canada and holds a Bachelors of Science in Nursing from the University of North Carolina at Chapel Hill."
+  },
+  {
+    "id": 59,
+    "firstName": "Karl J.",
+    "lastName": "Haake",
+    "suffix": ", MD",
+    "title": "Karl J. Haake, MD, is currently the Pain Management Consultant for the Missouri",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Karl-Haake.jpg",
+    "description": "Karl J. Haake, MD, is currently the Pain Management Consultant for the Missouri Primary Care Association and lead facilitator for Missouri's Chronic Pain ECHO Project. He is an anesthesiologist who specializes in pain medicine and is certified by both the American Board of Anesthesiology and the American Board of Pain Medicine. He formed the first pain clinic at a Federally Qualified Health Center in the United States at the Community Health Center of Central Missouri and consults with hospitals, health systems, managed care organizations, private clinics, and FQHC’s throughout the country regarding coordination of primary care, behavioral health, and pain management. He is currently the chair of the American Academy of Pain Medicine’s Special Interest Group in Primary Care and previously served as interim Chief Medical Director for Home State Health, one of Missouri Medicaid’s managed care organizations."
+  },
+  {
+    "id": 60,
+    "firstName": "Katherine",
+    "lastName": "Detwiler",
+    "suffix": ", BA",
+    "title": "Partner Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Katie-Detwiler.jpg",
+    "description": "Ms. Detwiler is passionate about the transformative power of lifelong learning and committed to improving outcomes for patients across all areas of healthcare.Raised on several continents including Africa and Europe, her professional background includes a degree in education as well as 10 years of home care experience with multiple software companies, in a variety of roles ranging from support to process improvement and business development. As Strategic Partner Manager at Relias Learning, Ms. Detwiler leverages her passions for education and healthcare by building relationships that make meaningful education readily accessible to all learners."
+  },
+  {
+    "id": 61,
+    "firstName": "Kris",
+    "lastName": "Rodgers",
+    "suffix": "",
+    "title": "Manager of Clinical and Education Programs, Laurel Health Care Company",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Kris-Rodgers.jpg",
+    "description": "ris Rodgers is the Manager of Clinical and Education Programs for Laurel Health Care Conpany, who owns and operates 36 LTC facilities in 5 states. Kris has been an online education convert for 5 years. She has over 30+ years experices as a nurse in LTC. She believes in the power of education and the pursit of knowedge to bring about excellence in service."
+  },
+  {
+    "id": 62,
+    "firstName": "Kristin",
+    "lastName": "Kinziger",
+    "suffix": "",
+    "title": "Director of Learning Management, Fortis Management Group",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Kristin-Kinziger.jpg",
+    "description": "Kristin Kinziger has been in the senior care and education industries for almost 20 years focusing on training and development, instructional design, IT, and consulting services. She holds a Master’s Degree in Education, was an elementary school teacher, and is Relias Level II certified. Last year, she led Fortis Management Group through multiple Relias implementations including the acquisition of operations for 65 centers, an implementation of a Corporate Integrity Agreement (CIA) with extensive training requirements, a conversion of over 200 company-created courses, reconfiguration of data for over 12,00 learners, and a newly designed Learning Management process. The results speak for themselves – compliance and completion percentages well above industry standards and an Implementation Award win at last year’s Impact Nation!"
+  },
+  {
+    "id": 63,
+    "firstName": "Laura",
+    "lastName": "Allender",
+    "suffix": "",
+    "title": "Policy &amp; Training Specialist, Allegro Senior Living",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Laura-Allender.jpg",
+    "description": "Laura is a ‘well-seasoned’ nurse, who has worked in acute care, home care, community health, occupational health and long-term care. She was lucky enough to start her nursing career with a BSN, and credits her experiences at Illinois Wesleyan University with instilling a lifelong love of teaching and learning. She traveled extensively with her husband during his career in the USAF, including three years in Okinawa where she earned her MS in Community Services from Michigan State University. Having finally put down roots in the St. Louis area, she earned her MSN with an education focus from Webster University. She has been with Allegro Senior Living, a St. Louis-based provider of independent & assisted living, memory care and skilled nursing, for nearly seven years. There she is responsible for training the nearly 1,100 associates located in 10 communities in Florida and Kentucky. She is also responsible for the creation, revision, and distribution of all Company policies and procedures. In her spare time, Laura enjoys traveling with her husband of 22 years and their two dachshunds. She is an avid quilter, and is addicted to historical fiction."
+  },
+  {
+    "id": 64,
+    "firstName": "Laurie",
+    "lastName": "Nelson",
+    "suffix": "",
+    "title": "Group Product Manager for Analytics, Relias Learning",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Laurie-Nelson.jpg",
+    "description": "As the Group Product Manager for Analytics, Laurie Nelson is charged with leading the effort to add Healthcare Analytics into Relias Learning’s suite of products, which also includes learning and assessments. She joined Relias in September 2016 and is excited to be working with an incredible team of people to make Analytics a key component of Relias’ overall solution suite which will enable Healthcare organizations to reduce costs, improve care and identify areas for key workforce development. Laurie has 20+ years of software experience in multiple industries, but has spent the last 14 years focused on Analytics, Data Warehousing, and Reporting for both government agencies and technology companies such as Peoplefluent and Teradata. Laurie is particularly passionate about working with software development organizations to build products that give software users the right information at the right time in the right format to enable them to do their jobs with greater success."
+  },
+  {
+    "id": 65,
+    "firstName": "Leah",
+    "lastName": "Yetter",
+    "suffix": "",
+    "title": "Leah Yetter has been an Integrated/Collaborative Care Program Manager with Vaya",
+    "imageAddress": "https://app.hubspot.com/settings/avatar/d41d8cd98f00b204e9800998ecf8427e",
+    "description": "Leah Yetter has been an Integrated/Collaborative Care Program Manager with Vaya Health since February 2016 and brings a diverse set of skills and experience to the Healthcare Quality Systems Department. Leah has over 15 years of experience in public health including health education, curriculum development, policy development, research, quality assurance and improvement and best practice models. She has a Bachelor of Arts in Human Services from College of Saint Mary in Omaha, NE and a Master of Public Health from East Carolina University in Greenville, NC."
+  },
+  {
+    "id": 66,
+    "firstName": "Leslie",
+    "lastName": "Jeffries",
+    "suffix": " MSN, BSN, RN",
+    "title": "Curriculum &amp; Clinical Assessments Designer, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Leslie-Jeffries.jpg",
+    "description": "Leslie is a 20-year veteran to the nursing profession, where a passion for creating content-valid employment assessments for the healthcare industry has assisted employers in determining job knowledge and competencies of applicant and incumbent employees. This work, over the past eight years, has assessed over 500,000 nursing and allied health professionals, and resulted in a library offering assessments in 76 different healthcare specialties. Domain expertise has allowed Leslie to assist clients in HR compliance with Department of Labor regulations, and determine how pre-employment assessments can best augment holistic hiring practices."
+  },
+  {
+    "id": 67,
+    "firstName": "Mandy",
+    "lastName": "Nice",
+    "suffix": "",
+    "title": "Wellness Program Manager, Seminole County Sheriff’s Office",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Mandy-Nice.jpg",
+    "description": "Mandy Nice is the Wellness Manager of Seminole County Sheriff’s Office and the President of The NICE Life, LLC, a corporate wellness firm providing science-based solutions to optimize employee resiliency, with a specialty for law enforcement. This past year, the success of her work was featured in two professional publications, the FBI National Academy Associate Magazine (November 2016) and The Police Chief Magazine (May 2017) of the International Association of Chiefs of Police (IACP). Her programs, developed from more than ten years in the field, are designed to yield measurable results and include injury risk reduction, physical fitness, nutrition coaching, ergonomic coaching and stress management."
+  },
+  {
+    "id": 68,
+    "firstName": "Mari",
+    "lastName": "Adams",
+    "suffix": ", RN, CHPN",
+    "title": "Mari Adams has been a hospice nurse for the past eleven years and has had the",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Mari-Adams.jpg",
+    "description": "Mari Adams has been a hospice nurse for the past eleven years and has had the honor of caring for hundreds of people in the last moments of life. Her passion for educating people on hospice care is never ending. She lives and works in Orlando, Florida."
+  },
+  {
+    "id": 69,
+    "firstName": "Maria",
+    "lastName": "Connelly",
+    "suffix": "",
+    "title": "Owner, THE WELLNESS EDGE",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/maria-connelly.jpg",
+    "description": "Maria Connelly has over twenty five years in the healthcare industry with emphasis in wellness and behavioral health. She recently started her own consulting company, THEWELLNESSEDGE which develops wellness strategies in programming, technology, training, and evaluating existing, as well as start-up operations within senior living and 55+ communities. Maria also served five years as Vice President of Wellness for Kisco Senior Living. In this position she created innovative programming that helped define Kisco’s role in the wellness movement. She also spent over three years leading Kisco’s Project Management team in Operations overseeing implementation of new development and acquisitions. Prior to the Kisco positions, she served several years as a Director of Operations for Sunrise Senior Living. She also spent 14 years with PacifiCare Behavioral Health. As Vice President of Sales and Marketing, she led the account management teams with over 4.3 million members. Also, as Director of Business Development for PBH, Maria implemented multi-site regional offices in four states. Maria Connelly has been recognized as a President’s Award recipient for Leadership and Teamwork at both PacifiCare Health Systems and Kisco Senior Living. Her website can found at: thewellness-edge.com"
+  },
+  {
+    "id": 70,
+    "firstName": "Maria",
+    "lastName": "Samot",
+    "suffix": "",
+    "title": "Director of Curriculum Research &amp; Design, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Maria-samot.jpg",
+    "description": "As Instructional Design Manager for Relias Learning, Maria Samot enjoys leading a team of talented learning experience designers and SMEs as part of the overall Content team. Prior to joining Relias in 2013, Maria was an Associate Project Director at Georgia State University in the College of Education, where she designed and presented training and education in instructor-led, blended learning and elearning formats. She’s also been director of a statewide non-profit educational foundation, as well as an elementary school teacher at an international magnet school in Raleigh, NC. Maria holds a BA in Psychology from NC State University, and an M.Ed. in Divergent Learning from Columbia College."
+  },
+  {
+    "id": 71,
+    "firstName": "Mark",
+    "lastName": "Belles",
+    "suffix": "",
+    "title": "Chief Operating Officer, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/reliaslearning-April2016/Images/Mark-belles.jpg",
+    "description": "Mark Belles joined Relias Learning in January 2016, as Chief Operating Officer. He previously served as President and COO of Teaching Strategies, an early childhood education company delivering innovative programs that serve children from birth through grade 3. Prior to that, Mark spent eight years at Blackboard, an education technology company dedicated to improving every aspect of the education experience for millions of learners and educators around the world. While at Blackboard, Mark held a variety of roles, including SVP K-12, GM Australia/New Zealand and China, and SVP Global Sales, Operations and Marketing. He has more than 25 years’ experience in sales, marketing, alliances and client care. He is passionate about ensuring quality educational opportunities and experiences for all learners."
+  },
+  {
+    "id": 72,
+    "firstName": "Martha",
+    "lastName": "Munro",
+    "suffix": "",
+    "title": "Training Coordinator, Child Welfare Provider Training Academy",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Martha-Munro.jpg",
+    "description": "Martha is the Training Coordinator for the Child Welfare Provider Training Academy. She is responsible for and oversees the goal of the public/private partnership with the Iowa Department of Human Services. Martha coordinates training to all Child Welfare contracted providers with a hybrid training pyramid. This is a combination of on-line learning, in-person training and webinars. Martha has been working with RMLS for 7 years. Her dynamic approach to the Child Welfare field provides practical and value added opportunities for training of social workers. These trainings are intended to help change the lives of children and families in the state of Iowa. Martha enjoys meeting new people, spending time with family and friends and loves to watch the Chicago Blackhawks"
+  },
+  {
+    "id": 73,
+    "firstName": "Matt",
+    "lastName": "Bowling",
+    "suffix": "",
+    "title": "SMB Support Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/matt-bowling.jpg",
+    "description": ""
+  },
+  {
+    "id": 74,
+    "firstName": "Megan",
+    "lastName": "Johnson",
+    "suffix": "",
+    "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Megan-Johnson.jpg",
+    "description": ""
+  },
+  {
+    "id": 75,
+    "firstName": "Melinda",
+    "lastName": "Moore",
+    "suffix": "",
+    "title": "Chief Executive Officer, The Arc of the Midlands",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Melinda-Moore.jpg",
+    "description": "She oversees a staff of 40 providing employment and independent living residential support services for individuals with intellectual and developmental (I/DD) disabilities in South Carolina. She brings more than 24 years of experience with professional training implementation and use of technology in learning and business processes. As a sibling of a person with I/DD I understand how valuable and effective technology initiatives can be and am personally driven to create innovative programs that enhance the quality of lives of people with I/DD."
+  },
+  {
+    "id": 76,
+    "firstName": "Merrill",
+    "lastName": "Winston",
+    "suffix": ", Ph.D., BCBA-D",
+    "title": "Dr. Winston is an expert in the use of restraint as it pertains to behavior",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Marrill-Winston.jpg",
+    "description": "Dr. Winston is an expert in the use of restraint as it pertains to behavior analysis in practice. He has experience in a wide variety of settings including schools, facilities and family homes. Dr. Winston specializes in the analysis and treatment of severe behavior problems and has been in the field of applied behavior analysis for over 25 years."
+  },
+  {
+    "id": 77,
+    "firstName": "Michael",
+    "lastName": "Christopher",
+    "suffix": "",
+    "title": "Ever since Michael Christopher joined the Rimland Team in 2006, he has been",
+    "imageAddress": "https://app.hubspot.com/settings/avatar/d41d8cd98f00b204e9800998ecf8427e",
+    "description": "Ever since Michael Christopher joined the Rimland Team in 2006, he has been committed to providing sensitive, competent, quality care to the Autistic Community in the Northwest Suburbs of Chicago. He began as a residential home manager and through his passion and dedication to his work, he quickly moved up the ladder as Case Manager, Residential Director and, now, as Associate Executive Director of Client Services. With a Bachelor of Arts Degree in Sociology and Spanish from Illinois College and a MSW from the University of Illinois at Chicago, Michael is a certified CPI and CPR instructor who has come to find Rimland as more of a family than just clients he serves."
+  },
+  {
+    "id": 78,
+    "firstName": "Miriam Y.",
+    "lastName": "Vega",
+    "suffix": ", PhD",
+    "title": "CEO, University Muslim Medical Assoc (UMMA) Community Clinic LA",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Miriam-Vega.jpg",
+    "description": ""
+  },
+  {
+    "id": 79,
+    "firstName": "",
+    "lastName": "Multiple Speakers",
+    "suffix": "",
+    "title": "",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Impact-Square.jpg",
+    "description": ""
+  },
+  {
+    "id": 80,
+    "firstName": "Nadia",
+    "lastName": "Soulouque",
+    "suffix": ", MBA/HRM, PHR, SHRM-CP",
+    "title": "Nadia Soulouque’s career as a human resources professional recently",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Nadia-Soulouquet.jpg",
+    "description": "Nadia Soulouque’s career as a human resources professional recently transitioned to a career in education after completion of coursework for a Doctorate in Management and Organizational Leadership. Having created a preceptor curriculum for Cornerstone Hospice & Palliative Care, Nadia Soulouque wants to share with other hospices a preceptor/onboarding program to help retain nurses."
+  },
+  {
+    "id": 81,
+    "firstName": "Nancy",
+    "lastName": "Brooks-Lane",
+    "suffix": ", M.S., L.M.F.T., L.P.C",
+    "title": "Senior Consultant, Griffin-Hammis Associates, Inc.",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Nancy-Brooks-Lane.jpg",
+    "description": "Nancy Brooks-Lane’s diverse skills include: training, technical assistance and side by side mentoring in best practices; organizational and system change strategic planning; and aligning policy, funding, and change. She has assisted persons with significant disabilities obtain customized employment or start their own business and has mentored, trained and provided technical assistance to self-advocates, families, providers, citizen advocates, funders and social and political leaders in the processes of best practices and system change. She has co-authored chapters in the books Real Work for Real Pay: Inclusive Employment for Individuals with Disabilities and The Job Developers Handbook: Practical Tactics for Customized Employment, and serves on the Editorial Board for the Journal of Vocational Rehabilitation."
+  },
+  {
+    "id": 82,
+    "firstName": "Nancy",
+    "lastName": "Coni",
+    "suffix": "",
+    "title": "Program Manager Org. Development, Good Shepherd Rehabilitation",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/nancy-coni.jpg",
+    "description": "Nancy Coni has been an HR professional for nearly 20 years, directing all the various Talent Management functions for a large post acute care provider. As this provider, Good Shepherd Rehabilitation Network, has grown to provide rehab services at over 50 sites in Pennsylvania and New Jersey, the need for communicating learning needs and standard practices has greatly increased. When Nancy's personal life led her to relocate to South Carolina, she was able to move into a new remote position tasked with developing an internal learning 'University' and leadership development program."
+  },
+  {
+    "id": 83,
+    "firstName": "Natasha",
+    "lastName": "Fisher",
+    "suffix": "",
+    "title": "Director of Product Management, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/reliaslearning-April2016/Images/Natasha-Fisher.jpg",
+    "description": "Natasha has over 15 years’ experience working with people with intellectual and developmental disabilities, serving in a variety of roles including, Direct Care, Service Coordination, QA, and Administration. Natasha has served on Provider Advisory Boards, worked in Self Advocate Committee start up, and has direct experience with CARF and CQL Accreditation processes. Natasha is passionate about creating products that improve the lives of people with disabilities and those who support them."
+  },
+  {
+    "id": 84,
+    "firstName": "Nick",
+    "lastName": "Beucke",
+    "suffix": "",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Nick-Beucke.jpg",
+    "description": ""
+  },
+  {
+    "id": 85,
+    "firstName": "Nick",
+    "lastName": "Seabrook",
+    "suffix": "",
+    "title": "Managing Director, BlackTree Healthcare Consulting",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Nick.jpg",
+    "description": "Nick Seabrook is a Managing Director and Founding Member at BlackTree Healthcare Consulting, which provides revenue cycle, outsourcing and clinical consulting services to the healthcare industry. With more than 16 years of experience, Nick specializes in taking a consultative approach towards improving the daily operations of agencies throughout the country. More recently, Nick has become a frequent contributor to industry forums, where he speaks at state association events, as well as national conferences."
+  },
+  {
+    "id": 86,
+    "firstName": "Pamela",
+    "lastName": "Greenberg",
+    "suffix": "",
+    "title": "President and CEO, Association for Behavioral Health and Wellness",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Pamela-Greenberg.jpg",
+    "description": "Pamela Greenberg is the President and CEO of the Association for Behavioral Health and Wellness; she joined the organization in 1998 as the Executive Director for the American Managed Behavioral Healthcare Association (AMBHA). ABHW is the national voice for specialty behavioral health and wellness companies. ABHW member companies provide services to over 170 million people in both the public and private sectors to treat mental health, substance use and other behaviors that impact health and wellness. Pamela serves on the Editorial Board of the Bloomberg BNA Health Insurance Report and BEHAVIORAL HEALTHCARE magazine. She is a member of the National Committee for Quality Assurance MBHO Advisory Committee and a liaison to the Standards Committee. In 2015 Ms. Greenberg joined the Advisory Board of Landmark Health a company that provides home-based medical care to individuals with multiple chronic conditions. She also was the Chair of the Coalition for Fairness in Mental Illness Coverage, one of the leading Coalitions that helped develop, advocate for, and get the Wellstone-Domenici Mental Health Parity and Addiction Equity Act of 2008 signed in to law. She also served as President of ACMHA: The College for Behavioral Health Leadership. Prior to joining ABHW Pamela was the Deputy Director of Federal Affairs for America’s Health Insurance Plans (AHIP). Before joining AHIP Ms. Greenberg was a Legislative Assistant at Capitol Associates, a healthcare consulting firm in Washington, D.C. Pamela has a B.A. from Mount Holyoke College and a Masters in Public Policy from Georgetown University. She is also a Board member of the Lupus Foundation of DC/MD/VA."
+  },
+  {
+    "id": 87,
+    "firstName": "Patti",
+    "lastName": "Baicy",
+    "suffix": "",
+    "title": "Director of Clinical, McKesson Medical-Surgical Extended Care",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Patti_Baicy.png",
+    "description": "Patti is responsible for leading McKesson’s clinical team which supports EC customers with education, formulary development, and regulatory updates. Patti has been with McKesson for more than 16 years, focusing on clinical needs of customers and product development of the McKesson Brand portfolio. She is a Registered Nurse with a Diploma in Nursing from Johnston-Willis Hospital School of Nursing."
+  },
+  {
+    "id": 88,
+    "firstName": "Peter",
+    "lastName": "Wright",
+    "suffix": ", MBA CBIST",
+    "title": "Director of Learning &amp; Development, ReMed",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/testimonials/PeterWright.jpg",
+    "description": ""
+  },
+  {
+    "id": 89,
+    "firstName": "Rodney",
+    "lastName": "Staggers",
+    "suffix": "",
+    "title": "Senior Manager of Training, Cenpatico Integrated Care - Arizona",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/rodney-staggers.jpg",
+    "description": "Rodney has been the head of training for Cenpatico and a user or Relias/Essential Learning since 2006. He is CTT+ trained, certified trainer in Mental Health First Aid for Youth, Adult, Veterans & Family Members, First Responders, Rural, and Higher Education. He co-developed and was certified as a Master Trainer for the now used Cultural Competency training used in the state of Arizona. He is a certified IACET Six Sigma Green Belt in process improvements. Rodney attended Northern Arizona University."
+  },
+  {
+    "id": 90,
+    "firstName": "Ron",
+    "lastName": "Orth",
+    "suffix": "",
+    "title": "Senior Analyst: SNF Regulations and Clinical Reimbursement, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Ron-Orth.jpg",
+    "description": "Ron is a registered nurse with over 25 years experience in the healthcare field with 15 of those years in the long term care industry. Ron’s presentations on Medicare regulations, PPS, MDS and other topics of interest to the long-term care industry have been featured throughout the United States and in Canada. In addition, Ron has also completed all requirements with the American Health Information Management Association to qualify as an Approved ICD-10-CM Trainer and Ambassador."
+  },
+  {
+    "id": 91,
+    "firstName": "Rosalie",
+    "lastName": "Webster",
+    "suffix": " SPHR, SHRM-SCP",
+    "title": "Rosalie Webster, is the Vice President of Human Resources &amp; Professional",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Rosalie-Webster.jpg",
+    "description": "Rosalie Webster, is the Vice President of Human Resources & Professional Development, at the Visiting Nurse Association of the Treasure Coast, a not-for-profit, community health care agency. Prior to this, she worked for several large, well known companies, such as Reader’s Digest, PSE&G, and Hoffman La Roche, where she specialized in Organization Development, Management Development, Succession Planning, Strategic Planning and Process Improvement before moving into Human Resources at Honeywell Space and Defense Systems. She contributes her career success to her ability to identify business issues and develop practical solutions in order to achieve business objectives. She has started up HR Departments and has re-established several HR Departments, improving products and services, as well as, credibility and reputation. As an internal HR business partner, she interacts with all levels of the organization, including the Board of Directors, at her current employer. Rosalie is the Program Chair for her local SHRM Chapter, she holds her Senior Professional Human Resources (SPHR) and Senior Certified Professional in Human Resources (SHRM-SCP), and earned her Masters degree in HR Administration and Organization Development from Montclair State University."
+  },
+  {
+    "id": 92,
+    "firstName": "Sandhya",
+    "lastName": "Gardner",
+    "suffix": ", M.D.",
+    "title": "Chief Medical Officer, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/ELT%20Headshots/Sandhya-Gardner.jpg",
+    "description": "Sandhya Gardner serves as Chief Medical Officer of Relias Learning. She joined Relias in December 2016 with the acquisition of Advanced Practice Strategies (APS), a Boston-based healthcare education and technology company where she served as Chief Content Officer. APS has partnered with over 100 major US health systems to improve patient care and outcomes through the delivery of assessment-driven, adaptive learning solutions to physicians and nurses. Using a data-driven approach and innovative solutions designed to reduce variation in practice & improve the reliability of care, the company transformed the way that learning is leveraged in the healthcare space."
+  },
+  {
+    "id": 93,
+    "firstName": "Sara C.",
+    "lastName": "Seidel Beall",
+    "suffix": ", MA, NCC, LPC",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Sara-Seide--Beall.jpg",
+    "description": "ara is a Licensed Professional Counselor (LPC) in North Carolina and was in the Health and Human Services field for 15 years before joining Relias Learning. For the last several years in the field, she was the Quality Management and Training Director in a Behavioral Health company. During that time, she helped to find, select and implement Relias Learning as their LMS. For the year and a half before she started at Relias, she was the main Relias Administrator at her company. She and her husband decided to move to Raleigh to start a family (check!), and when she saw the opening at Relias, she jumped at the opportunity."
+  },
+  {
+    "id": 94,
+    "firstName": "Sara",
+    "lastName": "DeFilipps",
+    "suffix": "",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Sara_DeFilipps.jpg",
+    "description": ""
+  },
+  {
+    "id": 95,
+    "firstName": "Sarah",
+    "lastName": "Haynes",
+    "suffix": "",
+    "title": "Learning and Development Manager, Ensign Services, Inc.",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Sarah-Haynes.jpg",
+    "description": "Expertise includes implementing training within the RLMS to satisfy training mandated by our Corporate Integrity Agreement in addition to analyzing and monitoring data obtained from the RLMS to ensure the organization and our affiliate companies are compliant."
+  },
+  {
+    "id": 96,
+    "firstName": "Sgt. Keith",
+    "lastName": "Kaiser",
+    "suffix": "",
+    "title": "Sgt. Keith Kaiser, Sergeant of the Strategic Services Unit of the Lake County",
+    "imageAddress": "https://app.hubspot.com/settings/avatar/d41d8cd98f00b204e9800998ecf8427e",
+    "description": ""
+  },
+  {
+    "id": 97,
+    "firstName": "Shiza",
+    "lastName": "Shahid",
+    "suffix": "",
+    "title": "Founder and CEO, The Malala Fund",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/Shiza.jpg",
+    "description": "Shiza Shahid is a social entrepreneur, television personality, speaker and women’s rights advocate. She is passionate about leveraging philanthropy, venture capital, technology and the media to drive scalable social impact and women’s empowerment. Shiza co-founded the Malala Fund with Nobel Prize winner Malala Yousafzai, and led the organization as founding CEO. She is now focused on supporting startups, innovators and entrepreneurs, particularly women, who are creating positive global impact. She is an advocate for women entrepreneurs, and hosts Women’s Story-telling Salons bringing together leading female entrepreneurs to collaborate. She is the host of the new MSNBC show ASPIREist. Shiza grew up in Pakistan as a vocal advocate for social change. She graduated from Stanford University with University Distinction. She was a business analyst with McKinsey & Company. She is also a graduate of Singularity University where she studied how to apply technology towards the goal of solving gender inequities. Shiza has received many awards for her work including TIME’s “30 under 30 World Changer,” Forbes “30-under-30 Social Entrepreneur,” WEF Global Agenda Council, Tribeca Institute Disruptive Innovator. She has been featured in multiple publications including Forbes, Fast Company, Elle, Glamour, Town and Country, The Edit, CNN, ABC, Al Jazeera, MSNBC and others. Shiza is a prominent speaker on millennial and women’s entrepreneurship. She speaks frequently at major international convenings including Aspen Ideas Fest, Milken Global Institute, Forbes Women, Fortune Most Powerful Women, Inc Women, Women Moving Millions, World Economic Forum and others."
+  },
+  {
+    "id": 98,
+    "firstName": "Soffy",
+    "lastName": "Vilson",
+    "suffix": ", RN, NE, LNHA",
+    "title": "With more than 28 years of experience in nursing, her passion to nursing has",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Soffy-Vilson.jpg",
+    "description": "With more than 28 years of experience in nursing, her passion to nursing has brought her forward to develop both personally and professionally. Currently, she works as a Health service nurse consultant at Spring point senior living in New Jersey and had worked in both hospital systems in various settings as well as in nursing homes as a director of nursing and as a licensed nursing home administrator in long-term care facilities. Early recognition of pneumonia in nursing homes was her capstone project topic when she took her doctoral degree in nursing from Monmouth University, New Jersey. She continues to educate and work in the area of pneumonia prevention especially in elderly to ensure quality care to residents as well as for regulatory and financial compliance of reducing readmissions. Being a ANCC certified Nurse executive and a dementia certified practitioner, she is very active in various organizations and holds executive positions including president of Indian Nurses Association of New Jersey, Nomination Committee member of New Jersey State Nurses Association, member of NJACC leadership camp are the few of the many to mention."
+  },
+  {
+    "id": 99,
+    "firstName": "Stephani",
+    "lastName": "Olnhausen",
+    "suffix": "",
+    "title": "Enterprise Support Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Stephani-Olnhausen2.jpg",
+    "description": ""
+  },
+  {
+    "id": 100,
+    "firstName": "Stephanie",
+    "lastName": "Bates",
+    "suffix": ", M.A., BCBA",
+    "title": "Training, Quality, and Privacy Director",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Stephanie-Bates.jpg",
+    "description": ""
+  },
+  {
+    "id": 101,
+    "firstName": "Sue",
+    "lastName": "Williams",
+    "suffix": " M.Ed.",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Sue-Williams.jpg",
+    "description": ""
+  },
+  {
+    "id": 102,
+    "firstName": "Theresa",
+    "lastName": "Raines",
+    "suffix": "",
+    "title": "Account Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Theresa-Raines.jpg",
+    "description": ""
+  },
+  {
+    "id": 103,
+    "firstName": "Tiffani",
+    "lastName": "Vines",
+    "suffix": "",
+    "title": "Client Care Trainer, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/tiffani-vines2.jpg",
+    "description": ""
+  },
+  {
+    "id": 104,
+    "firstName": "Tina",
+    "lastName": "Shakour",
+    "suffix": "",
+    "title": "Digital Marketing &amp; Social Media Strategist, Cisco",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Images/tina-shakour.jpg",
+    "description": "Tina has over 15 years in sales, marketing, and engineering in the tech industry and Silicon Valley. Formerly an engineer, she has had the opportunity to build marketing organizations for start-ups and top tech companies. She now leverages her technical background and combines it with creativity to crack the code on social media marketing for Cisco. As a woman in tech, she advocates for educating boys and girls in STEM and serves as a delegate and mentor in the US State Department in the international TechWomen program. She loves strategy and big-picture thinking but also enjoys testing new technology daily and delivering top notch execution. In her free time she enjoys hiking with her husband and two Shiba Inus, and exploring wine country."
+  },
+  {
+    "id": 105,
+    "firstName": "Tom",
+    "lastName": "Friedman",
+    "suffix": "",
+    "title": "Senior Product Manager for Payers and Community Health, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/tompic_1257810.jpg",
+    "description": "Mr. Friedman is a Senior Product Manager in the Payer and Community Health markets. Tom brings executive experience working in healthcare payer strategic planning, finance, government affairs, and analytics having most recently served as the Director of Policy, Planning, and Analysis for the State Health Plan of North Carolina. Tom has worked in multiple states (such as North Carolina, New Hampshire, and Massachusetts) and in multiple payer settings including commercial, Medicaid, Medicare, as well as dual eligibles. Tom received his Bachelor’s degree from the University of Arizona and a Master’s of Public Administration from the University of Delaware."
+  },
+  {
+    "id": 106,
+    "firstName": "Trey",
+    "lastName": "McLamb",
+    "suffix": "",
+    "title": "Client Success Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/Trey-McLamb.jpg",
+    "description": ""
+  },
+  {
+    "id": 107,
+    "firstName": "Trudy",
+    "lastName": "Croxton",
+    "suffix": "",
+    "title": "Enterprise Support Manager, Relias",
+    "imageAddress": "https://www.reliaslearning.com/hubfs/Impact_Nation/Speakers/trudy-cruxton2.jpg",
+    "description": ""
+  },
+  {
+    "id": 108,
+    "firstName": "Katie",
+    "lastName": "Curtis",
+    "suffix": "",
+    "title": "Client Success Manager, Relias Learning",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Katie_Curtis.jpg",
+    "description": ""
+  },
+  {
+    "id": 109,
+    "firstName": "Christine",
+    "lastName": "Connell",
+    "suffix": "",
+    "title": "Client Success Manager, Relias Learning",
+    "imageAddress": "https://www.reliaslearning.com/hs-fs/hubfs/Impact_Nation/Speakers/Christine-Connell.jpg",
     "description": ""
   }
 ]
