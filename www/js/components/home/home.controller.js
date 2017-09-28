@@ -5,6 +5,7 @@
 
   function HomeController($rootScope, scheduleManager, sessionsService) {
     var $ctrl = this;
+    $ctrl.userSessions = [];
     updateUserSessions();
 
     $rootScope.$on('scheduleManager.toggleScheduled', updateUserSessions);
