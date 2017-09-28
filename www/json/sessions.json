@@ -410,5 +410,80 @@
         "description": "As the Group Product Manager for Analytics, Laurie Nelson is charged with leading the effort to add Healthcare Analytics into Relias Learning’s suite of products, which also includes learning and assessments. She joined Relias in September 2016 and is excited to be working with an incredible team of people to make Analytics a key component of Relias’ overall solution suite which will enable Healthcare organizations to reduce costs, improve care and identify areas for key workforce development. Laurie has 20+ years of software experience in multiple industries, but has spent the last 14 years focused on Analytics, Data Warehousing, and Reporting for both government agencies and technology companies such as Peoplefluent and Teradata. Laurie is particularly passionate about working with software development organizations to build products that give software users the right information at the right time in the right format to enable them to do their jobs with greater success."
       }
     ]
+  },
+  {
+    "id": 17,
+    "title": "Let's Focus on the Future of the Payer and Insurer Industry",
+    "location": "Grand Cypress Ballroom - G,H",
+    "trackID": [ 7 ],
+    "description": "Kickoff session for the payer and insurer pros.  Let's look at where we are, where we are going, and the best way to get there.",
+    "startTime": 1507114800,
+    "endTime": 1507117800,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 105,
+        "firstName": "Tom",
+        "lastName": "Friedman",
+        "suffix": "",
+        "title": "Senior Product Manager for Payers and Community Health, Relias",
+        "imageUrl": "https://www.reliaslearning.com/hubfs/tompic_1257810.jpg",
+        "description": "Mr. Friedman is a Senior Product Manager in the Payer and Community Health markets. Tom brings executive experience working in healthcare payer strategic planning, finance, government affairs, and analytics having most recently served as the Director of Policy, Planning, and Analysis for the State Health Plan of North Carolina. Tom has worked in multiple states (such as North Carolina, New Hampshire, and Massachusetts) and in multiple payer settings including commercial, Medicaid, Medicare, as well as dual eligibles. Tom received his Bachelor’s degree from the University of Arizona and a Master’s of Public Administration from the University of Delaware."
+      },
+      {
+        "id": 64,
+        "firstName": "Laurie",
+        "lastName": "Nelson",
+        "suffix": "",
+        "title": "Group Product Manager for Analytics, Relias Learning",
+        "imageUrl": "https://www.reliaslearning.com/hubfs/Resource_Images/Webinars/Presenters/Laurie-Nelson.jpg",
+        "description": "As the Group Product Manager for Analytics, Laurie Nelson is charged with leading the effort to add Healthcare Analytics into Relias Learning’s suite of products, which also includes learning and assessments. She joined Relias in September 2016 and is excited to be working with an incredible team of people to make Analytics a key component of Relias’ overall solution suite which will enable Healthcare organizations to reduce costs, improve care and identify areas for key workforce development. Laurie has 20+ years of software experience in multiple industries, but has spent the last 14 years focused on Analytics, Data Warehousing, and Reporting for both government agencies and technology companies such as Peoplefluent and Teradata. Laurie is particularly passionate about working with software development organizations to build products that give software users the right information at the right time in the right format to enable them to do their jobs with greater success."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "What's Next in Payment?",
+    "location": "Grand Cypress Ballroom - G,H",
+    "trackID": [ 7 ],
+    "description": "Tom Friedman, former Director of Policy, Planning, and Analysis for the State Health Plan of North Carolina, presenting on multiple perspectives of how value-based Payments will impact areas along the continuum of healthcare",
+    "startTime": 1507125600,
+    "endTime": 1507128600,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 105,
+        "firstName": "Tom",
+        "lastName": "Friedman",
+        "suffix": "",
+        "title": "Senior Product Manager for Payers and Community Health, Relias",
+        "imageUrl": "https://www.reliaslearning.com/hubfs/tompic_1257810.jpg",
+        "description": "Mr. Friedman is a Senior Product Manager in the Payer and Community Health markets. Tom brings executive experience working in healthcare payer strategic planning, finance, government affairs, and analytics having most recently served as the Director of Policy, Planning, and Analysis for the State Health Plan of North Carolina. Tom has worked in multiple states (such as North Carolina, New Hampshire, and Massachusetts) and in multiple payer settings including commercial, Medicaid, Medicare, as well as dual eligibles. Tom received his Bachelor’s degree from the University of Arizona and a Master’s of Public Administration from the University of Delaware."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Social Determinants of Health: Impact on Patient Experience, Patient Care, and Provider Reimbursement",
+    "location": "Magnolia - B,C",
+    "trackID": [ 7 ],
+    "description": "As providers and payers continue to move reimbursements along the value-based payment continuum, the role of the provider/patient relationship becomes even more critical. Effective communication, empathy, and understanding will not only lead to better outcomes, but also play a key role in reimbursements. Patients are more likely to take the steps needed to be active participants in clinical care requirements if they can be delivered in a manner that considers their unique needs.",
+    "startTime": 1507129800,
+    "endTime": 1507132800,
+    "CE": false,
+    "speakers":
+    [
+      {
+        "id": 105,
+        "firstName": "Tom",
+        "lastName": "Friedman",
+        "suffix": "",
+        "title": "Senior Product Manager for Payers and Community Health, Relias",
+        "imageUrl": "https://www.reliaslearning.com/hubfs/tompic_1257810.jpg",
+        "description": "Mr. Friedman is a Senior Product Manager in the Payer and Community Health markets. Tom brings executive experience working in healthcare payer strategic planning, finance, government affairs, and analytics having most recently served as the Director of Policy, Planning, and Analysis for the State Health Plan of North Carolina. Tom has worked in multiple states (such as North Carolina, New Hampshire, and Massachusetts) and in multiple payer settings including commercial, Medicaid, Medicare, as well as dual eligibles. Tom received his Bachelor’s degree from the University of Arizona and a Master’s of Public Administration from the University of Delaware."
+      }
+    ]
   }
 ]
