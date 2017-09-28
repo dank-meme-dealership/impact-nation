@@ -5,7 +5,8 @@
   background-color: #86b774;
 }
 .bar-stable.bar-relias-green .title,
-.bar-stable.bar-relias-light-green .title {
+.bar-stable.bar-relias-light-green .title,
+.bar-stable.bar-relias-green .button {
   color: #eee;
 }
 

@@ -1,0 +1,25 @@
+.session-start-time,
+.session-end-time {
+  color: #7f7f7f;
+}
+
+.session-start-time {
+  padding-bottom: 3px;
+}
+
+.time-area {
+  float: left;
+  width: 62px;
+  padding: 4px 9px 0 0;
+}
+
+.vertical-divider {
+  float: left;
+  width: 4px;
+  height: 35px;
+  margin-right: 9px;
+  background-color: #333;
+  border-radius: 2px;
+}
+
+

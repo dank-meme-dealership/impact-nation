@@ -1,0 +1,14 @@
+<ion-item class="item item-icon-right session-item" ui-sref="app.session({ sessionID: $ctrl.session.id })">
+  <i class="icon ion-plus"></i>
+  <div class="session-content">
+    <h4 class="time-area" align="right">
+      <div class="session-start-time" ng-bind="$ctrl.session.startTimeFormatted"></div>
+      <div class="session-end-time" ng-bind="$ctrl.session.endTimeFormatted"></div>
+    </h4>
+    <div class="vertical-divider"></div>
+    <div class="session-titles">
+      <h2 class="session-title" ng-bind="$ctrl.session.title"></h2>
+      <h4 class="session-subtitle" ng-bind="$ctrl.session.subtitle"></h4>
+    </div>
+  </div>
+</ion-item>
