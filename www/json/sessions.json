@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Clean the World Program Sponsored by Straightaway Health",
+    "location": "Clean the World",
     "trackID": [ 1 ],
     "description": "Straightaway Health Careers is proud to sponsor a Clean the World event at Impact Nation this year. Help us reach our goal of assembling 500 hygiene kits to send to the Aid of Victims of Domestic Abuse of Orlando during Monday morning’s registration time (9:30-11:30am).",
     "startTime": 1506936600,
@@ -23,6 +24,7 @@
   {
     "id": 2,
     "title": "Where is Healthcare Headed?",
+    "location": "Magnolia - B,C",
     "trackID": [
       1,
       2
@@ -47,6 +49,7 @@
   {
     "id": 3,
     "title": "Using CMT Analytics to Outreach & Impact Opioid Prescribers",
+    "location": "Magnolia - B,C",
     "trackID": [
       1,
       2
@@ -71,6 +74,7 @@
   {
     "id": 4,
     "title": "Welcome Reception",
+    "location": "Upper Pool Deck",
     "trackID": [ 1 ],
     "description": "Join us for the opening welcome reception for Impact Nation 2017.",
     "startTime": 1506967200,
@@ -92,6 +96,7 @@
   {
     "id": 5,
     "title": "Think Forward. Give Back – What Inspired Our Access for All, Haiti Initiative",
+    "location": "Grand Cypress Ballroom - D,E,F",
     "trackID": [ 3 ],
     "description": "Laurent Lamothe will discuss the efforts of the Louis G. Lamothe Foundation to provide support and education to the people of Haiti as the 2010 earthquake recovery efforts transition from emergency relief to sustainable development of infrastructure, including access to health care.  We hope that you are inspired by our partnership with our nearest neighbor to assist in their efforts to recover from natural disaster and loss of infrastructure, and take that co-operative spirit back with you to apply to your corner of the world.",
     "startTime": 1507029000,
@@ -113,6 +118,7 @@
   {
     "id": 6,
     "title": "Conflict Resolution",
+    "location": "Grand Cypress Ballroom - G,H",
     "trackID": [
       3,
       4
@@ -137,6 +143,7 @@
   {
     "id": 7,
     "title": "Modern Day Customer Service: The Relias Way",
+    "location": "Palm - A,B,C",
     "trackID": [
       3,
       6
@@ -170,6 +177,7 @@
   {
     "id": 8,
     "title": "Achieve Staff Competence in a Whole Person Team-Based Integrated Care Setting",
+    "location": "Grand Cypress Ballroom - I",
     "trackID": [
       3,
       5
@@ -203,6 +211,7 @@
   {
     "id": 9,
     "title": "Keynote: One More Thing, One More Time",
+    "location": "Grand Cypress Ballroom - D,E,F",
     "trackID": [ 7 ],
     "description": "Josh Sundquist is a Paralympic ski racer and bestselling author who has been featured on CNN and in USA TODAY and has spoken across the country to groups ranging from Fortune 500 companies to inner city public schools to the White House. His high-octane blend of energy and humor inspires organizations and individuals to adopt his ski racing motto, 1MT1MT (one more thing, one more time) as their new standard of excellence. Josh shares stories about losing his leg to cancer, ski racing in the Paralympics, and playing jokes with his artificial leg to give motivation for overcoming adversity and reaching peak performance.",
     "startTime": 1507110600,
@@ -224,6 +233,7 @@
   {
     "id": 10,
     "title": "The Journey to the Top: How St Lukes Ascended from Good-to-Great, becoming One of the US’s Very Best Health Systems",
+    "location": "Palm - D,E,F",
     "trackID": [ 7 ],
     "description": "Bob Lokken, CEO of WhiteCloud analytics, will focus on the analytic technologies that allow us to harness the power of the data we have only just begun collecting. This technology ranges from automating manually performed tasks, all the way to advanced machine learning algorithms with the power to scan billions of records to uncover patterns and insights today's leaders use to make informed decisions.",
     "startTime": 1507122000,
@@ -254,6 +264,7 @@
   {
     "id": 11,
     "title": "Turnover and Retention Workshop",
+    "location": "Palm - A,B,C",
     "trackID": [ 8 ],
     "description": "Jan Wilson, M. Ed. SPHR, SHRM-SPC, Director, Learning Design and Outcomes with Relias Learning will lead an interactive 3 hour afternoon workshop to share her in-depth knowledge on staff turnover and retention challenges and solutions. People rave about Jan's techniques for better training programs and techniques to attract, hire and retain the best staff.",
     "startTime": 1506949200,
@@ -275,6 +286,7 @@
   {
     "id": 12,
     "title": "Course Writing-eLearning Master Class",
+    "location": "Regency - 1,2",
     "trackID": [ 8 ],
     "description": "Bring your own laptop! We recommend you have Microsoft Word and Powerpoint. You’ll receive a USB drive with all the materials you need to complete a simulated project as we go through the day.",
     "startTime": 1506949200,
@@ -305,6 +317,7 @@
   {
     "id": 13,
     "title": "Level I Fundamental RLMS Training",
+    "location": "Grand Cypress Ballroom - A,B",
     "trackID": [ 8 ],
     "description": "Workshop for basic users who could be using the system better, beginners or admins that are new users of the RLMS. Covers: User Management, Hierarchy, Modules and Enrollment, Dashboard and Site Settings, Curricula Creation, Advanced Enrollment, and Reporting.",
     "startTime": 1506949200,
@@ -335,6 +348,7 @@
   {
     "id": 14,
     "title": "Level II Advanced RLMS Training",
+    "location": "Grand Cypress Ballroom - G,H",
     "trackID": [ 8 ],
     "description": "Workshop for more seasoned clients who know the basics, but want to dig deeper and learn to use the more robust features. Covers: Module Assembler, Live Events, Requirements Tracker, Skills Checklist, Curricula Building and Advanced Enrollment, and Reporting.",
     "startTime": 1506949200,
@@ -365,6 +379,7 @@
   {
   "id": 15,
   "title": "Payer Provider Collaboration: The Value of Data Sharing for Whole Person Care",
+  "location": "Magnolia - B,C",
   "trackID": [ 2 ],
   "description": "The relationship between payer and providers is shifting. Payers are establishing greater expectations of providers for integrated care, including care coordination and care management activities that have typically been the functional responsibility of the payer. Provider reimbursement is being tied to performance metrics such as overall health outcomes, functional life skills improvement and quality of care. These shift are fraught with challenges and risks. Collaboration and trust between payer and provider are key.",
   "startTime": 1506953700,
@@ -386,6 +401,7 @@
   {
     "id": 16,
     "title": "Interactive Discussion: Biggest Successes, Failures, and Learnings in 2017",
+    "location": "Magnolia - B,C",
     "trackID": [ 2 ],
     "description": "Let’s learn from each other. Join us as we have an interactive discussion around current happenings in each of our states, sharing current projects, successes, and gaps. What tools are you using to succeed? What would you like to see in new developing technologies that address population health management and value-based care models?",
     "startTime": 1506962700,
