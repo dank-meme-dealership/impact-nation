@@ -8,9 +8,7 @@
     <div class="vertical-divider"></div>
     <div>
       <h2 class="session-title" ng-bind="$ctrl.session.title"></h2>
-      <h4 class="session-location ion-location">
-        {{ $ctrl.session.location || 'No location' }}
-      </h4>
+      <h4 class="session-location ion-location" ng-bind="' ' + $ctrl.session.location"></h4>
     </div>
   </div>
 </ion-item>
