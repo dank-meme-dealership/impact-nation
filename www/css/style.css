@@ -54,3 +54,12 @@ ion-content {
 a {
   color: inherit;
 }
+
+.top-menu-rounded {
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+}
+.bottom-menu-rounded {
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
