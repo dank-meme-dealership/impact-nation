@@ -54,3 +54,7 @@ ion-content {
 a {
   color: inherit;
 }
+
+.menu-content {
+  background-color: #7ab263;
+}
