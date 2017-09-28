@@ -1,7 +1,24 @@
-<ion-view view-title="Schedule">
-  <ion-content>
+<ion-view>
+  <ion-nav-title ng-bind="$ctrl.selectedTab.title"></ion-nav-title>
+  <ion-content class="has-footer">
     <ion-list>
-      <session-list-item session="session" ng-repeat="session in $ctrl.sessionsService.sessions"></session-list-item>
+      <session-list-item
+        session="session"
+        ng-repeat="session in $ctrl.selectedTab.sessions">
+      </session-list-item>
+      <ion-item
+        class="centered-wrapped-item"
+        ng-if="$ctrl.selectedTab.sessions.length === 0"
+        ng-bind="$ctrl.selectedTab.emptyMessage">
+      </ion-item>
     </ion-list>
   </ion-content>
+  <div class="tabs tabs-icon-top">
+    <a class="tab-item"
+       ng-repeat="tab in $ctrl.tabs"
+       ng-class="{'active': tab.title === $ctrl.selectedTab.title}"
+       ng-click="$ctrl.selectTab(tab)">
+      <i class="icon {{ tab.icon }}"></i> {{ tab.title }}
+    </a>
+  </div>
 </ion-view>

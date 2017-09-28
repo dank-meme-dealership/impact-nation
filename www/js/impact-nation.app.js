@@ -2,6 +2,7 @@
   angular
     .module('impactNation', [
       'ionic',
+      'ionic.utils',
       'ngResource',
       'ngCordovaOauth',
 

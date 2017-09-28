@@ -13,3 +13,14 @@
 .card .item:last-child .item-content {
   border-top: 1px solid #ddd;
 }
+
+.tab-item.active {
+  background: #eee;
+}
+
+.centered-wrapped-item {
+  overflow: auto;
+  text-overflow: inherit;
+  white-space: normal;
+  text-align: center;
+}
