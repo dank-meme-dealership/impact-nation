@@ -2,6 +2,10 @@
 .session-end-time {
   color: #7f7f7f;
 }
+.conflicting .session-start-time,
+.conflicting .session-end-time {
+  color: #ff931f;
+}
 
 .session-start-time {
   padding-bottom: 3px;
@@ -29,7 +33,4 @@
 
 .session-item i.icon.ion-ios-checkmark {
   color: #268703;
-}
-.session-item i.icon.ion-ios-checkmark.conflicting {
-  color: #ffbf0f;
 }

@@ -1,6 +1,6 @@
 <ion-item class="item session-item" ng-class="{'item-icon-right': !$ctrl.disableEdit}" ui-sref="app.session({ sessionID: $ctrl.session.id })">
   <div class="session-content">
-    <h4 class="time-area" align="right">
+    <h4 class="time-area" align="right" ng-class="{'conflicting': $ctrl.session.conflicting}">
       <div class="session-start-time" ng-bind="$ctrl.session.startTimeFormatted"></div>
       <div class="session-end-time" ng-bind="$ctrl.session.endTimeFormatted"></div>
     </h4>
