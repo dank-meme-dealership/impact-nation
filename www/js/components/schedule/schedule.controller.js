@@ -1,18 +1,29 @@
 (function () {
   angular
     .module('impactNation.schedule')
-    .controller('ScheduleController', ScheduleController)
-    .filter('addListDividers', addListDividers);
+    .controller('ScheduleController', ScheduleController);
 
   function ScheduleController($rootScope, sessionsService, scheduleManager) {
     var $ctrl = this;
 
     $ctrl.tabs = [
-      { title: 'Schedule', icon: 'ion-calendar', sessions: [], emptyMessage: 'There are no scheduled sessions right now.' },
-      { title: 'My Schedule', icon: 'ion-person', sessions: [], emptyMessage: 'There are no sessions on your schedule. Try adding some from the schedule page.' }
+      {
+        title: 'Schedule',
+        icon: 'ion-calendar',
+        sessions: [],
+        emptyMessage: 'There are no scheduled sessions right now.'
+      },
+      {
+        title: 'My Schedule',
+        icon: 'ion-person',
+        sessions: [],
+        emptyMessage: 'There are no scheduled sessions to show. Try adding some from the schedule page.'
+      }
     ];
 
     $ctrl.selectTab = selectTab;
+    $ctrl.selectDate = selectDate;
+    $ctrl.sessionFilter = sessionFilter;
 
     // set up a listener to keep my schedule up to date
     $rootScope.$on('scheduleManager.toggleScheduled', updateMySchedule);
@@ -28,6 +39,10 @@
       $ctrl.selectedTab = tab;
     }
 
+    function selectDate(option) {
+      $ctrl.selectedDate = option;
+    }
+
     function updateMySchedule() {
       var mySchedule = scheduleManager.getMySchedule();
       sessionsService.getSessions().then(function (sessions) {
@@ -36,41 +51,21 @@
         // set sessions on mySchedule to the My Schedule tab
         $ctrl.tabs[1].sessions = _.filter(sessions, function (session) {
           return _.includes(mySchedule, parseInt(session.id));
-        })
+        });
+        // get unique date options for a date picker
+        $ctrl.dateOptions = _.uniq(_.map(sessions, 'displayDate'));
+        if (!$ctrl.selectedDate) {
+          $ctrl.selectedDate = $ctrl.dateOptions[0];
+        }
       })
     }
-  }
 
-  /**
-   * Add list dividers to a list, dunno if we'll use this yet
-   * @returns {Function}
-   */
-  function addListDividers() {
-    var dividers = {};
-
-    return function (input) {
-      if (!input || !input.length) return;
-
-      var output = [];
-      var previousDisplayGroup;
-      var currentDisplayGroup;
-      var item;
-
-      for (var i = 0, ii = input.length; i < ii && (item = input[i]); i++) {
-        currentDisplayGroup = item.displayGroup;
-        if (!previousDisplayGroup || currentDisplayGroup != previousDisplayGroup) {
-          if (!dividers[currentDisplayGroup]) {
-            dividers[currentDisplayGroup] = { isDivider: true, divider: currentDisplayGroup };
-          }
-
-          output.push(dividers[currentDisplayGroup]);
-        }
-
-        output.push(item);
-        previousDisplayGroup = currentDisplayGroup;
-      }
-
-      return output;
-    };
+    function sessionFilter(sessions) {
+      // apply the filter the user has specified to SessionName, SessionType, and VenueName
+      // to avoid a deep comparison
+      return _.filter(sessions, function (thisSession) {
+        return thisSession.displayDate === $ctrl.selectedDate;
+      });
+    }
   }
 })();

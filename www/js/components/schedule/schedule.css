@@ -1,0 +1,21 @@
+.card.date-options {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 0 0;
+  padding: 0;
+}
+
+.card.date-options .option {
+  display: flex;
+  flex-grow: 1;
+  height: auto;
+  padding: 10px 5px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  border: 1px solid #ddd;
+}
+
+.card.date-options .option.active {
+  background-color: #eee;
+}

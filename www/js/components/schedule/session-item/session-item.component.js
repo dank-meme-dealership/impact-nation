@@ -5,7 +5,8 @@
       templateUrl: 'js/components/schedule/session-item/session-item.tpl.html',
       bindings: {
         session: '<',
-        disableEdit: '<'
+        disableEdit: '<',
+        hideDate: '<'
       }
     });
 })();

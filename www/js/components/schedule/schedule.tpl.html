@@ -1,14 +1,23 @@
 <ion-view>
   <ion-nav-title ng-bind="$ctrl.selectedTab.title"></ion-nav-title>
   <ion-content class="has-footer">
+    <div class="card date-options">
+      <div class="option"
+           ng-repeat="option in $ctrl.dateOptions"
+           ng-bind="option"
+           ng-click="$ctrl.selectDate(option)"
+           ng-class="{'active': option === $ctrl.selectedDate}">
+      </div>
+    </div>
     <ion-list>
       <session-list-item
         session="session"
-        ng-repeat="session in $ctrl.selectedTab.sessions">
+        hide-date="true"
+        ng-repeat="session in filtered=($ctrl.sessionFilter($ctrl.selectedTab.sessions))">
       </session-list-item>
       <ion-item
         class="centered-wrapped-item"
-        ng-if="$ctrl.selectedTab.sessions.length === 0"
+        ng-if="filtered.length === 0"
         ng-bind="$ctrl.selectedTab.emptyMessage">
       </ion-item>
     </ion-list>

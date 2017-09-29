@@ -8,7 +8,8 @@
     <div>
       <h2 class="session-title" ng-bind="$ctrl.session.title"></h2>
       <h4 class="session-location">
-        {{ $ctrl.session.displayDate }} | <span class="ion-location"> {{ $ctrl.session.location }}</span>
+        <span ng-if="!$ctrl.hideDate">{{ $ctrl.session.displayDate }} | </span>
+        <span class="ion-location"> {{ $ctrl.session.location }}</span>
       </h4>
     </div>
   </div>

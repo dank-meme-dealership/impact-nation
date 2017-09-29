@@ -26,3 +26,7 @@
   text-wrap: normal;
   white-space: normal;
 }
+
+.session-item i.icon.ion-ios-checkmark {
+  color: #268703;
+}
