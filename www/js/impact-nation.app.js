@@ -5,6 +5,7 @@
       'ionic.utils',
       'ngResource',
       'ngCordovaOauth',
+      'search',
 
       'impactNation.menu',
       'impactNation.home',

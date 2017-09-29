@@ -1,0 +1,17 @@
+search-bar .bar.item-input-inset {
+  /*background: #226ca1;*/
+}
+search-bar label.item-input-wrapper {
+  /*background: #114275;*/
+  margin-top: 0px !important;
+}
+search-bar input:focus,
+search-bar input.ng-valid.ng-dirty.ng-valid-parse.ng-touched,
+search-bar input.ng-pristine.ng-untouched.ng-valid {
+  /*color: #fff;*/
+}
+search-bar .bar.item-input-inset{
+  margin-top: 10px;
+  border-radius: 2px;
+}
+

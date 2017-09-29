@@ -9,6 +9,9 @@
            ng-class="{'active': option === $ctrl.selectedDate}">
       </div>
     </div>
+
+    <search-bar filter-text="$ctrl.filterText"></search-bar>
+
     <ion-list>
       <session-list-item
         session="session"

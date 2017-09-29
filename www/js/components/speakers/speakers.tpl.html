@@ -1,7 +1,9 @@
 <ion-view view-title="Speakers">
   <ion-content>
+    <search-bar filter-text="$ctrl.filterText"></search-bar>
     <ion-list>
-      <speaker-list-item speaker="speaker" ng-repeat="speaker in $ctrl.speakersService.speakers"></speaker-list-item>
+      <speaker-list-item speaker="speaker" ng-repeat="speaker in filtered=($ctrl.speakersService.speakers | filter:$ctrl.filterText)"></speaker-list-item>
+      <ion-item class="text-center" ng-if="$ctrl.filterText && filtered.length === 0">No speakers match your search</ion-item>
     </ion-list>
   </ion-content>
 </ion-view>

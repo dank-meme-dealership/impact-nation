@@ -3,9 +3,10 @@
     .module('impactNation.schedule')
     .controller('ScheduleController', ScheduleController);
 
-  function ScheduleController($rootScope, sessionsService, scheduleManager) {
+  function ScheduleController($rootScope, sessionsService, scheduleManager, searchService) {
     var $ctrl = this;
 
+    $ctrl.filterText = '';
     $ctrl.tabs = [
       {
         title: 'Schedule',
@@ -116,7 +117,9 @@
       // apply the filter the user has specified to SessionName, SessionType, and VenueName
       // to avoid a deep comparison
       return _.filter(sessions, function (thisSession) {
-        return thisSession.displayDate === $ctrl.selectedDate;
+        var nameMatch = searchService.lowerCaseCompare(thisSession.title, $ctrl.filterText);
+        var dateMatch = thisSession.displayDate === $ctrl.selectedDate;
+        return dateMatch && nameMatch;
       });
     }
   }
