@@ -84,7 +84,7 @@
       // Provide string display date & time of day separately so views can decide
       // how to show the 2 parts. Generate a searchDate field that can be used to search by
       // a date string like "Thursday" or "27th"
-      session.displayDate = displayDate.format('ddd MMMM Do');
+      session.displayDate = displayDate.format('ddd MMM Do');
       session.searchDate = displayDate.format('LLLL') + ' ' + timeOfDay;
       session.timeOfDay = timeOfDay;
 

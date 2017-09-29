@@ -10,5 +10,8 @@
     <h4 class="white-text">Presenting At</h4>
     <div class="card padding" ng-if="$ctrl.sessions.length === 0">This speaker is not scheduled to present</div>
     <session-list-item session="session" ng-repeat="session in $ctrl.sessions"></session-list-item>
+
+    <!-- stupid br hack -->
+    <br>
   </ion-content>
 </ion-view>
