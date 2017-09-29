@@ -34,11 +34,14 @@
       function setIsScheduled() {
         if (!$scope.session) return;
 
-        $element.removeClass('ion-ios-checkmark ion-plus-round');
+        $element.removeClass('ion-ios-checkmark ion-plus-round conflicting');
         var isScheduled = scheduleManager.isScheduled('permanent', $scope.session.id);
         isScheduled ?
           $element.addClass('ion-ios-checkmark') :
           $element.addClass('ion-plus-round');
+        if ($scope.session.conflicting) {
+          $element.addClass('conflicting');
+        }
       }
     }
   }
